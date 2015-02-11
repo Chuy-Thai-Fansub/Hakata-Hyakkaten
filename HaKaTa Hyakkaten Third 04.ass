@@ -17,10 +17,8 @@ Audio File: D:/150202 HaKaTa Hyakkaten 3 ep04.mp4
 Video File: D:/150202 HaKaTa Hyakkaten 3 ep04.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 237
-Active Line: 256
-Video Position: 14831
+Video Zoom Percent: 0.375000
+Video Position: 39257
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -289,408 +287,373 @@ Dialogue: 0,0:07:58.59,0:08:05.62,Default,,0,0,0,,ตอนนี้ซาชิ
 Dialogue: 0,0:08:05.62,0:08:08.98,Default,,0,0,0,,ที่ฉันชอบน่ะนะ ก็พวกนี้
 Dialogue: 0,0:08:09.43,0:08:11.86,Default,,0,0,0,,"พยายามเข้านะ" อะไรอย่างนี้
 Dialogue: 0,0:08:11.86,0:08:14.08,Default,,0,0,0,,เห็นแล้วดีใจขึ้นมาเลย
-Dialogue: 0,0:08:14.08,0:08:16.79,Default,,0,0,0,,If you saw this when you opened the box, it'd make you happy, right?
-Dialogue: 0,0:08:16.79,0:08:19.67,Default,,0,0,0,,It's a cheering-you-on box lunch. "To the busy Tanaka-san."
-Dialogue: 0,0:08:19.67,0:08:22.27,Default,,0,0,0,,This is my first time... It's something to be happy about. Really.
-Dialogue: 0,0:08:22.70,0:08:23.68,Default,,0,0,0,,And this type, too.
-Dialogue: 0,0:08:24.18,0:08:24.84,Default,,0,0,0,,Ah, it's cute.
-Dialogue: 0,0:08:25.16,0:08:26.73,Default,,0,0,0,,Tanaka...
-Dialogue: 0,0:08:26.03,0:08:26.73,Default,,0,0,0,,- Tanaka.
-Dialogue: 0,0:08:26.73,0:08:28.20,Default,,0,0,0,,Di- Dive?
-Dialogue: 0,0:08:28.20,0:08:29.25,Default,,0,0,0,,Double?
-Dialogue: 0,0:08:29.48,0:08:30.56,Default,,0,0,0,,What is "Tanaka Double?"
-Dialogue: 0,0:08:30.94,0:08:32.16,Default,,0,0,0,,Maybe they have the same last name?
-Dialogue: 0,0:08:32.16,0:08:35.05,Default,,0,0,0,,Tanaka-san, maybe it's one of the Tanakas.
-Dialogue: 0,0:08:33.44,0:08:35.05,Default,,0,0,0,,- Ah, it's one of the Tanakas.
-Dialogue: 0,0:08:35.05,0:08:36.42,Default,,0,0,0,,One of them did it.
-Dialogue: 0,0:08:36.42,0:08:39.12,Default,,0,0,0,,Ah, Double Tanaka. Like, eating together?
-Dialogue: 0,0:08:39.52,0:08:40.34,Default,,0,0,0,,Eh?
-Dialogue: 0,0:08:40.34,0:08:41.63,Default,,0,0,0,,To that extent?
-Dialogue: 0,0:08:41.63,0:08:44.55,Default,,0,0,0,,Not to that extent.
-Dialogue: 0,0:08:44.96,0:08:46.55,Default,,0,0,0,,Is this sakura denbu?
-Dialogue: 0,0:08:44.96,0:08:48.83,Hyakkaten Notes,,0,0,0,,[T/N: Sakura denbu is mashed and seasoned fish that is a light pink color]
-Dialogue: 0,0:08:46.55,0:08:48.83,Default,,0,0,0,,You don't like it that much?
-Dialogue: 0,0:08:47.23,0:08:48.83,Default,,0,0,0,,- I don't really like it.
-Dialogue: 0,0:08:48.83,0:08:50.40,Default,,0,0,0,,It doesn't really feel like a side dish.
-Dialogue: 0,0:08:50.40,0:08:52.24,Default,,0,0,0,,And it's not something you put this much of.
-Dialogue: 0,0:08:52.56,0:08:53.94,Default,,0,0,0,,That was one of the points.
-Dialogue: 0,0:08:54.33,0:08:55.96,Default,,0,0,0,,Just then...
-Dialogue: 0,0:08:55.96,0:08:57.08,Default,,0,0,0,,Hey, wait!
-Dialogue: 0,0:08:58.11,0:08:59.21,Default,,0,0,0,,Isn't this...
-Dialogue: 0,0:08:59.21,0:09:01.98,Default,,0,0,0,,Isn't this one a little too careless?
-Dialogue: 0,0:09:01.98,0:09:03.38,Default,,0,0,0,,I didn't notice.
-Dialogue: 0,0:09:03.38,0:09:05.98,Default,,0,0,0,,This looked quite good, but...
-Dialogue: 0,0:09:03.42,0:09:07.75,Text,,0,0,0,,{\fs40\c&H000000&\3c&HFAFCFC&\pos(253,70)}Riceball
-Dialogue: 0,0:09:03.75,0:09:07.75,Text,,0,0,0,,{\fs40\c&H000000&\3c&HFAFCFC&\pos(675,70)}Sweet & Sour Pork
-Dialogue: 0,0:09:04.08,0:09:07.75,Text,,0,0,0,,{\fs40\c&H000000&\3c&HFAFCFC&\pos(700,412)}Cherry Tomato
-Dialogue: 0,0:09:04.42,0:09:07.75,Text,,0,0,0,,{\fs40\c&H000000&\3c&HFAFCFC&\pos(369,380)}Lettuce
-Dialogue: 0,0:09:05.98,0:09:07.75,Default,,0,0,0,,This is quite crude.
-Dialogue: 0,0:09:06.55,0:09:07.75,Default,,0,0,0,,- It's crude.
-Dialogue: 0,0:09:08.30,0:09:11.79,Default,,0,0,0,,The member who made that box lunch is...
-Dialogue: 0,0:09:11.79,0:09:16.09,Default,,0,0,0,,I heard Tanaka-san likes sweet and sour pork.
-Dialogue: 0,0:09:16.09,0:09:18.43,Default,,0,0,0,,This is my first time I made a box lunch.
-Dialogue: 0,0:09:18.43,0:09:26.14,Member Name,,0,0,0,,{\fs45\c&H000000&\3c&HFFC6FF&\4c&HFFC6FF&\pos(1096,169)}Sakamoto Erena
-Dialogue: 0,0:09:18.43,0:09:26.14,Text,,0,0,0,,{\fs30\c&H000000&\3c&HFFC6FF&\pos(537,387)}Kenkyuusei
-Dialogue: 0,0:09:18.43,0:09:26.14,Text,,0,0,0,,{\fs30\c&H000000&\3c&HFFC6FF&\pos(542,412)}14 Years Old
-Dialogue: 0,0:09:19.23,0:09:26.14,Default,,0,0,0,,Sakamoto Erena wasn't cutting corners. This was just her first time making a box lunch.
-Dialogue: 0,0:09:26.34,0:09:28.71,Default,,0,0,0,,There's a really bad one. This one!
-Dialogue: 0,0:09:28.71,0:09:30.84,Default,,0,0,0,,You cut corners! What is this?
-Dialogue: 0,0:09:31.04,0:09:33.11,Default,,0,0,0,,You've got to be kidding me!
-Dialogue: 0,0:09:33.11,0:09:38.85,Default,,0,0,0,,While thinking of ideas, she must have been like, "Tanaka-san is going bald, this would be good."
-Dialogue: 0,0:09:37.77,0:09:38.85,Default,,0,0,0,,- That's right.
-Dialogue: 0,0:09:38.85,0:09:42.62,Default,,0,0,0,,I'm not that concerned about going bald.
-Dialogue: 0,0:09:43.16,0:09:45.12,Default,,0,0,0,,You're not concerned.
-Dialogue: 0,0:09:44.07,0:09:45.12,Default,,0,0,0,,- What is this?
-Dialogue: 0,0:09:45.12,0:09:46.96,Default,,0,0,0,,I wonder what this is...
-Dialogue: 0,0:09:46.96,0:09:48.00,Default,,0,0,0,,Lasagna?!
-Dialogue: 0,0:09:48.24,0:09:49.93,Default,,0,0,0,,This is lasagna with rice.
-Dialogue: 0,0:09:49.93,0:09:52.20,Default,,0,0,0,,This is what Yamane likes.
-Dialogue: 0,0:09:52.20,0:09:55.73,Text,,0,0,0,,{\bord20\shad0\1c&HDFEA99&\an7\p1\3c&HDFEA99&\2c&HD2EB7C&\pos(712,526)}m 0 0  l 438 0  438 10  0 10\N
-Dialogue: 0,0:09:52.20,0:09:55.73,Text,,0,0,0,,{\fs45\pos(928,550)\c&H000000&\3c&HFAFCFC&}Boss Makes a Basic Mistake
-Dialogue: 0,0:09:52.57,0:09:54.78,Default,,0,0,0,,Yamane likes lasagna.
-Dialogue: 0,0:09:55.00,0:09:55.73,Default,,0,0,0,,What is this?
-Dialogue: 0,0:09:56.33,0:10:01.25,Default,,0,0,0,,Fresh cream and pistachios on top of pancake. I'm not sure why there's pistachio.
-Dialogue: 0,0:10:01.25,0:10:04.69,Default,,0,0,0,,By the way, the cream on the pancake had made it onto the karaage chicken.
-Dialogue: 0,0:10:04.69,0:10:06.01,Default,,0,0,0,,Because it's so messy.
-Dialogue: 0,0:10:06.28,0:10:08.61,Default,,0,0,0,,Gross.
-Dialogue: 0,0:10:09.78,0:10:15.92,Default,,0,0,0,,After briefly looking at all the box lunches, which one will Tanaka-san choose for 3rd place?
-Dialogue: 0,0:10:16.14,0:10:19.58,Default,,0,0,0,,Say goodbye to thinning hair! Full head of hair box lunch.
-Dialogue: 0,0:10:20.93,0:10:22.13,Default,,0,0,0,,It looks good!
-Dialogue: 0,0:10:22.13,0:10:26.00,Default,,0,0,0,,If I'm being honest, I am a little concerned about my thinning hair. But she didn't emphasize it too much.
-Dialogue: 0,0:10:26.00,0:10:26.48,Default,,0,0,0,,She's nice.
-Dialogue: 0,0:10:26.48,0:10:28.07,Default,,0,0,0,,This amount of hijiki...
-Dialogue: 0,0:10:26.48,0:10:28.07,Hyakkaten Notes,,0,0,0,,[T/N: A sea vegetable that's usually eaten with rice]
-Dialogue: 0,0:10:28.43,0:10:32.87,Default,,0,0,0,,Inside my heart, this is about how much I care about going bald.
-Dialogue: 0,0:10:31.40,0:10:32.87,Default,,0,0,0,,- Just a little. It's the perfect amount, right?
-Dialogue: 0,0:10:32.87,0:10:33.97,Default,,0,0,0,,This is the perfect amount.
-Dialogue: 0,0:10:33.97,0:10:36.22,Default,,0,0,0,,Who made this box lunch?
-Dialogue: 0,0:10:36.22,0:10:36.84,Default,,0,0,0,,Me!
-Dialogue: 0,0:10:36.84,0:10:37.95,Default,,0,0,0,,Wakachan!
-Dialogue: 0,0:10:37.95,0:10:39.08,Default,,0,0,0,,It's Wakachan.
-Dialogue: 0,0:10:37.95,0:10:39.08,Default,,0,0,0,,- That's good!
-Dialogue: 0,0:10:39.69,0:10:43.72,Default,,0,0,0,,In 3rd place is Wakatabe Haruka.
-Dialogue: 0,0:10:43.72,0:10:50.87,Default,,0,0,0,,The colors are all there. Yellow, red, green, everything is there.
-Dialogue: 0,0:10:50.16,0:10:50.87,Default,,0,0,0,,- That's right.
-Dialogue: 0,0:10:50.87,0:10:54.79,Default,,0,0,0,,I thought that maybe Tanaka-san was concerned about his thinning hair.
-Dialogue: 0,0:10:54.79,0:10:57.28,Default,,0,0,0,,I searched for "thinning hair, food."
-Dialogue: 0,0:10:57.28,0:10:59.54,Default,,0,0,0,,It came up with eggs and...
-Dialogue: 0,0:10:59.54,0:11:01.00,Default,,0,0,0,,Is that so?
-Dialogue: 0,0:10:59.83,0:11:01.00,Default,,0,0,0,,- Ah, eggs are good, too?
-Dialogue: 0,0:11:01.00,0:11:03.44,Default,,0,0,0,,Hijiki and seaweed.
-Dialogue: 0,0:11:03.44,0:11:04.50,Default,,0,0,0,,That's true!
-Dialogue: 0,0:11:04.50,0:11:07.44,Default,,0,0,0,,Sautéed liver and Chinese chives, and inside here, there's natto and kimchi.
-Dialogue: 0,0:11:07.44,0:11:09.01,Default,,0,0,0,,Woah, that's amazing!
-Dialogue: 0,0:11:09.01,0:11:09.61,Default,,0,0,0,,Admirable!
-Dialogue: 0,0:11:09.61,0:11:10.54,Default,,0,0,0,,It's good for baldness?
-Dialogue: 0,0:11:10.54,0:11:11.41,Default,,0,0,0,,It's good for baldness.
-Dialogue: 0,0:11:14.31,0:11:16.45,Text,,0,0,0,,{\bord20\shad0\1c&HDFEA99&\an7\p1\3c&HDFEA99&\2c&HD2EB7C&\pos(638,523)}m 0 0  l 513 0  513 10  0 10\N
-Dialogue: 0,0:11:14.31,0:11:16.45,Text,,0,0,0,,{\fs35\pos(892,542)\c&H000000&\3c&HFAFCFC&}Trying Really Hard to Counteract Baldness
-Dialogue: 0,0:11:12.71,0:11:16.45,Default,,0,0,0,,In the end, this box lunch was all about my baldness.
-Dialogue: 0,0:11:15.88,0:11:16.45,Default,,0,0,0,,- Yes.
-Dialogue: 0,0:11:16.45,0:11:19.92,Default,,0,0,0,,But the fact that you didn't notice means she was able to do all that casually.
-Dialogue: 0,0:11:17.07,0:11:19.92,Default,,0,0,0,,- I didn't notice. That's right.
-Dialogue: 0,0:11:20.53,0:11:23.92,Default,,0,0,0,,Her casual kindness about his thinning hair was popular.
-Dialogue: 0,0:11:24.51,0:11:26.22,Default,,0,0,0,,In 2nd place is...
-Dialogue: 0,0:11:26.22,0:11:30.00,Default,,0,0,0,,With this, slim but muscular? Nourishing box lunch.
-Dialogue: 0,0:11:30.17,0:11:32.30,Default,,0,0,0,,Whose box lunch is this?
-Dialogue: 0,0:11:32.30,0:11:32.83,Default,,0,0,0,,Me!
-Dialogue: 0,0:11:33.30,0:11:37.44,Default,,0,0,0,,Amazingly, Aramaki Misaki, a kenkyuusei, came in 2nd!
-Dialogue: 0,0:11:37.44,0:11:38.81,Default,,0,0,0,,What was the main point?
-Dialogue: 0,0:11:39.30,0:11:44.59,Default,,0,0,0,,This also has good colors. And the crab, that's a point.
-Dialogue: 0,0:11:42.37,0:11:44.59,Default,,0,0,0,,- Ah, that's right. You like crab.
-Dialogue: 0,0:11:45.64,0:11:50.72,Default,,0,0,0,,Good on you for thinking about the distribution. Did you also think about the colors?
-Dialogue: 0,0:11:50.88,0:11:51.78,Default,,0,0,0,,Yes.
-Dialogue: 0,0:11:51.78,0:11:54.81,Default,,0,0,0,,That's good. You're really...
-Dialogue: 0,0:11:54.81,0:11:57.69,Default,,0,0,0,,{\fad(200,0)}You're a really good kid.
-Dialogue: 0,0:11:57.14,0:11:57.69,Default,,0,0,0,,- How is it?
-Dialogue: 0,0:11:57.69,0:11:58.86,Default,,0,0,0,,Do you think you did well?
-Dialogue: 0,0:11:58.86,0:12:01.18,Default,,0,0,0,,Hmm, putting them into the box was hard.
-Dialogue: 0,0:12:01.18,0:12:02.19,Default,,0,0,0,,It was hard?
-Dialogue: 0,0:12:02.46,0:12:04.46,Default,,0,0,0,,What's your favorite part of this?
-Dialogue: 0,0:12:04.46,0:12:05.54,Default,,0,0,0,,Of course the crab.
-Dialogue: 0,0:12:05.54,0:12:07.87,Default,,0,0,0,,Ah, it's the crab. Because he likes crab, right?
-Dialogue: 0,0:12:06.03,0:12:07.87,Default,,0,0,0,,- Ah, that's right.
-Dialogue: 0,0:12:08.13,0:12:12.64,Default,,0,0,0,,I want him to turn completely into a crab and then eat this crab.
-Dialogue: 0,0:12:13.20,0:12:17.48,Default,,0,0,0,,Fixating on Tanaka-san's special talent of turning into a crab, she amazingly comes in 2nd.
-Dialogue: 0,0:12:18.24,0:12:20.41,Default,,0,0,0,,Who will come in 1st?
-Dialogue: 0,0:12:20.41,0:12:21.79,Default,,0,0,0,,1st place is...
-Dialogue: 0,0:12:22.81,0:12:26.44,Default,,0,0,0,,For the busy Tanaka-san! Cheering-you-on box lunch!
-Dialogue: 0,0:12:27.29,0:12:29.35,Default,,0,0,0,,Whose box lunch is this?
-Dialogue: 0,0:12:29.35,0:12:29.76,Default,,0,0,0,,Me!
-Dialogue: 0,0:12:29.76,0:12:31.10,Default,,0,0,0,,Ah, Aoi!
-Dialogue: 0,0:12:31.10,0:12:32.36,Default,,0,0,0,,Congrats!
-Dialogue: 0,0:12:32.96,0:12:37.00,Default,,0,0,0,,Coming in 1st is Motomura Aoi.
-Dialogue: 0,0:12:37.00,0:12:40.03,Default,,0,0,0,,Opening this in the dressing room would certainly be embarrassing.
-Dialogue: 0,0:12:39.43,0:12:40.03,Default,,0,0,0,,- True.
-Dialogue: 0,0:12:40.03,0:12:43.87,Default,,0,0,0,,I don't know what Yamane would say to me if he saw this.
-Dialogue: 0,0:12:43.87,0:12:49.54,Default,,0,0,0,,But a man wants someone to make him something like this at least once.
-Dialogue: 0,0:12:49.54,0:12:53.75,Default,,0,0,0,,The kind that makes you say, "This is a little embarrassing!" while eating it.
-Dialogue: 0,0:12:53.75,0:12:55.19,Default,,0,0,0,,Like the "Stop it!" one.
-Dialogue: 0,0:12:55.19,0:12:59.01,Default,,0,0,0,,I wouldn't want this every time, but if I opened this up when I was tired,
-Dialogue: 0,0:12:59.01,0:13:01.01,Default,,0,0,0,,it'd make me think, "I need to keep working hard."
-Dialogue: 0,0:13:01.02,0:13:03.59,Default,,0,0,0,,"I need to keep working hard for Motomura-chan."
-Dialogue: 0,0:13:03.59,0:13:05.82,Default,,0,0,0,,Ah, she's delighted.
-Dialogue: 0,0:13:04.22,0:13:05.82,Default,,0,0,0,,- I'm happy!
-Dialogue: 0,0:13:06.28,0:13:09.66,Default,,0,0,0,,A heart-shaped omurice with an egg on top of chicken rice.
-Dialogue: 0,0:13:10.90,0:13:15.17,Default,,0,0,0,,Although nervous about how this is a one time deal, Motomura writes a message.
-Dialogue: 0,0:13:15.83,0:13:17.34,Default,,0,0,0,,I did it!
-Dialogue: 0,0:13:18.04,0:13:19.60,Default,,0,0,0,,Thanks and congrats.
-Dialogue: 0,0:13:18.27,0:13:19.60,Default,,0,0,0,,- The best, the best.
-Dialogue: 0,0:13:19.60,0:13:21.51,Default,,0,0,0,,1st place.
-Dialogue: 0,0:13:20.27,0:13:21.51,Default,,0,0,0,,- Yay for you.
-Dialogue: 0,0:13:21.51,0:13:23.34,Default,,0,0,0,,Congrats.
-Dialogue: 0,0:13:22.00,0:13:23.34,Default,,0,0,0,,- Thank you very much.
-Dialogue: 0,0:13:23.34,0:13:26.85,Text,,0,0,0,,{\fs50\c&HC823E7&\3c&HFAFCFC&\pos(260,541)}Tashima Meru
-Dialogue: 0,0:13:23.34,0:13:26.85,Text,,0,0,0,,{\fs50\c&HC823E7&\3c&HFAFCFC&\pos(990,541)}Kojina Yui
-Dialogue: 0,0:13:26.85,0:13:30.28,Text,,0,0,0,,{\fs50\c&HC823E7&\3c&HFAFCFC&\pos(260,541)}Yabuki Nako
-Dialogue: 0,0:13:26.85,0:13:30.28,Text,,0,0,0,,{\fs50\c&HC823E7&\3c&HFAFCFC&\pos(968,541)}Moriyasu Madoka
-Dialogue: 0,0:13:23.34,0:13:30.28,Default,,0,0,0,,Even though the judging is finished, there is one box lunch Tanaka-san wants to complain about.
-Dialogue: 0,0:13:31.02,0:13:32.11,Default,,0,0,0,,I'm curious about this!
-Dialogue: 0,0:13:32.11,0:13:32.78,Default,,0,0,0,,Who?
-Dialogue: 0,0:13:33.27,0:13:34.19,Default,,0,0,0,,Me!
-Dialogue: 0,0:13:34.19,0:13:36.89,Default,,0,0,0,,You've got to be kidding me, seriously.
-Dialogue: 0,0:13:34.19,0:13:36.89,Default,,0,0,0,,- Mio!
-Dialogue: 0,0:13:36.89,0:13:40.39,Default,,0,0,0,,What the hell is this?
-Dialogue: 0,0:13:36.89,0:13:40.39,Default,,0,0,0,,- Please don't get mad! Wait, please listen to me.
-Dialogue: 0,0:13:40.39,0:13:43.50,Default,,0,0,0,,Tell me how things got this way.
-Dialogue: 0,0:13:43.50,0:13:43.97,Default,,0,0,0,,Um.
-Dialogue: 0,0:13:44.30,0:13:46.14,Default,,0,0,0,,You know how you're thin?
-Dialogue: 0,0:13:45.28,0:13:46.14,Default,,0,0,0,,- I'm thin.
-Dialogue: 0,0:13:46.14,0:13:47.97,Default,,0,0,0,,That worries me, so
-Dialogue: 0,0:13:47.97,0:13:53.37,Default,,0,0,0,,I thought giving you high-calorie foods would help bulk you up, which would make you look better.
-Dialogue: 0,0:13:53.37,0:13:56.28,Default,,0,0,0,,A pancake with plenty of fresh cream on top.
-Dialogue: 0,0:13:56.28,0:14:03.38,Default,,0,0,0,,And katsudon, karaage chicken, and even sweet and sour pork since you love it.
-Dialogue: 0,0:14:00.32,0:14:03.38,Default,,0,0,0,,- Sweet and sour pork is too heavy!
-Dialogue: 0,0:14:03.38,0:14:05.32,Default,,0,0,0,,Let me rest my stomach!
-Dialogue: 0,0:14:05.68,0:14:09.65,Default,,0,0,0,,Since it seems he's in a bad mood, they propose this idea...
-Dialogue: 0,0:14:10.08,0:14:14.89,Default,,0,0,0,,You'll feed one dish from your box lunch to Tanaka-san.
-Dialogue: 0,0:14:14.13,0:14:14.89,Default,,0,0,0,,- Eh?!
-Dialogue: 0,0:14:14.89,0:14:15.22,Default,,0,0,0,,Ah.
-Dialogue: 0,0:14:15.22,0:14:17.40,Default,,0,0,0,,You're kinda against it.
-Dialogue: 0,0:14:16.54,0:14:17.40,Default,,0,0,0,,- No, no, no.
-Dialogue: 0,0:14:17.40,0:14:18.46,Default,,0,0,0,,No, no, no.
-Dialogue: 0,0:14:18.46,0:14:21.28,Default,,0,0,0,,Being fed is definitely one of the things men yearn for.
-Dialogue: 0,0:14:21.28,0:14:23.17,Default,,0,0,0,,Plus, this is the box lunch you made for Tanaka-san.
-Dialogue: 0,0:14:22.76,0:14:23.17,Default,,0,0,0,,- That's true.
-Dialogue: 0,0:14:23.17,0:14:25.17,Default,,0,0,0,,Except, you're going to feed me this?
-Dialogue: 0,0:14:25.17,0:14:27.74,Text,,0,0,0,,{\bord20\shad0\1c&HE8F0B1&\an7\p1\3c&HE8F0B1&\2c&HD2EB7C&\pos(974,500)}m 0 0  l 175 0  175 10  0 10\N
-Dialogue: 0,0:14:25.17,0:14:27.74,Text,,0,0,0,,{\pos(1062,532)\c&H000000&\3c&HFAFCFC&}This{\fs50}
-Dialogue: 0,0:14:25.52,0:14:27.74,Default,,0,0,0,,That's right.
-Dialogue: 0,0:14:25.78,0:14:27.74,Default,,0,0,0,,- Why?
-Dialogue: 0,0:14:28.10,0:14:30.82,Default,,0,0,0,,But the other ones are quite bad, too.
-Dialogue: 0,0:14:30.82,0:14:33.34,Default,,0,0,0,,Maybe you should feed him some other stuff, too.
-Dialogue: 0,0:14:33.34,0:14:34.68,Default,,0,0,0,,The shell.
-Dialogue: 0,0:14:34.05,0:14:34.68,Default,,0,0,0,,- Hold on.
-Dialogue: 0,0:14:34.68,0:14:36.05,Default,,0,0,0,,How about the shell?
-Dialogue: 0,0:14:36.05,0:14:38.02,Default,,0,0,0,,Can you eat it with the shell on?
-Dialogue: 0,0:14:38.02,0:14:39.98,Default,,0,0,0,,Of course I can't eat it!
-Dialogue: 0,0:14:39.98,0:14:42.15,Default,,0,0,0,,I'm not a monster!!
-Dialogue: 0,0:14:42.15,0:14:44.29,Default,,0,0,0,,Why would I eat the shell?
-Dialogue: 0,0:14:46.34,0:14:49.66,Default,,0,0,0,,Then Tanaka-san, please eat.
-Dialogue: 0,0:14:50.22,0:14:51.78,Default,,0,0,0,,Ok! Open wide!
-Dialogue: 0,0:14:52.72,0:14:53.60,Default,,0,0,0,,Wah.
-Dialogue: 0,0:14:53.86,0:14:54.93,Default,,0,0,0,,Don't say "wah."
-Dialogue: 0,0:14:55.27,0:14:56.50,Default,,0,0,0,,How is it?
-Dialogue: 0,0:14:56.81,0:14:58.61,Default,,0,0,0,,It's surprisingly good.
-Dialogue: 0,0:14:58.61,0:14:59.80,Default,,0,0,0,,I'm glad!
-Dialogue: 0,0:15:00.34,0:15:02.04,Default,,0,0,0,,I'm happy. I'm glad.
-Dialogue: 0,0:15:02.71,0:15:05.70,Default,,0,0,0,,Let's play with Tanaka-san! Daruma-san's Day!
-Dialogue: 0,0:15:02.71,0:15:05.70,Hyakkaten Notes,,0,0,0,,[T/N: Daruma-san's Day is a children's game that is sort of like a combination of "Red Light, Green Light" and "Simon Says"]
-Dialogue: 0,0:15:09.76,0:15:14.65,Default,,0,0,0,,Ok, from now, in order to become more familiar with Tanaka-san, we'll have him play with us.
-Dialogue: 0,0:15:15.39,0:15:18.66,Default,,0,0,0,,We want to play Daruma-san's Day today.
-Dialogue: 0,0:15:18.66,0:15:20.63,Default,,0,0,0,,Do you know what that is?
-Dialogue: 0,0:15:20.63,0:15:23.03,Default,,0,0,0,,I don't know.
-Dialogue: 0,0:15:21.29,0:15:23.03,Default,,0,0,0,,- Eh?! You don't know it?!
-Dialogue: 0,0:15:23.03,0:15:25.41,Default,,0,0,0,,Who knows what Daruma-san's Day is?
-Dialogue: 0,0:15:24.33,0:15:26.33,Text,,0,0,0,,{\bord20\shad0\1c&HDFEA99&\an7\p1\3c&HDFEA99&\2c&HD2EB7C&\pos(611,523)}m 0 0  l 540 0  540 10  0 10\N
-Dialogue: 0,0:15:24.33,0:15:26.33,Text,,0,0,0,,{\fs45\3c&HFAFCFC&\c&H000000&\pos(878,548)}Common Knowledge for Teenagers
-Dialogue: 0,0:15:25.41,0:15:26.33,Default,,0,0,0,,Everyone knows it?
-Dialogue: 0,0:15:27.05,0:15:29.67,Default,,0,0,0,,The rules are almost the same as Red Light, Green Light.
-Dialogue: 0,0:15:30.66,0:15:36.31,Default,,0,0,0,,However, the participants must do whatever the person acting as "it" says.
-Dialogue: 0,0:15:36.31,0:15:38.73,Default,,0,0,0,,So if "it" says, "I ate ramen," you have to pretend to eat ramen.
-Dialogue: 0,0:15:38.73,0:15:39.84,Default,,0,0,0,,I see.
-Dialogue: 0,0:15:39.84,0:15:41.41,Default,,0,0,0,,You have to do the movements properly.
-Dialogue: 0,0:15:41.65,0:15:42.21,Default,,0,0,0,,Ok.
-Dialogue: 0,0:15:42.46,0:15:47.12,Default,,0,0,0,,The "it" is Tanaka Miku, who was in elementary school until last year.
-Dialogue: 0,0:15:47.38,0:15:50.49,Default,,0,0,0,,The first action is...
-Dialogue: 0,0:15:50.95,0:15:53.71,Default,,0,0,0,,Daruma-san turned into Tanaka-san!
-Dialogue: 0,0:15:54.70,0:15:56.33,Default,,0,0,0,,As expected, Tanaka-san is the best at that.
-Dialogue: 0,0:15:57.20,0:15:59.46,Default,,0,0,0,,He's good! Can you do it?
-Dialogue: 0,0:15:59.60,0:16:01.50,Default,,0,0,0,,It's like, "Yamane!"
-Dialogue: 0,0:16:00.47,0:16:01.50,Default,,0,0,0,,- Ah, that's it!
-Dialogue: 0,0:16:01.50,0:16:03.88,Default,,0,0,0,,Everyone, do it!
-Dialogue: 0,0:16:01.83,0:16:03.88,Default,,0,0,0,,- Why couldn't you guys get that?
-Dialogue: 0,0:16:03.88,0:16:05.64,Default,,0,0,0,,Everyone, do it! Yamane.
-Dialogue: 0,0:16:05.64,0:16:07.92,Default,,0,0,0,,Yamane!
-Dialogue: 0,0:16:07.92,0:16:11.31,Default,,0,0,0,,No, you have to do more. Yamane!
-Dialogue: 0,0:16:11.31,0:16:12.41,Default,,0,0,0,,Meru, were you able to do it?
-Dialogue: 0,0:16:12.41,0:16:13.58,Default,,0,0,0,,{\fad(200,0)}Yamane...
-Dialogue: 0,0:16:13.58,0:16:14.85,Default,,0,0,0,,No, no, your voice is too soft.
-Dialogue: 0,0:16:14.85,0:16:16.92,Default,,0,0,0,,Yamane!
-Dialogue: 0,0:16:16.92,0:16:18.92,Default,,0,0,0,,{\fad(200,0)}Yamane!
-Dialogue: 0,0:16:18.92,0:16:21.72,Default,,0,0,0,,If you don't do that much, Yamane won't stop.
-Dialogue: 0,0:16:22.26,0:16:23.02,Default,,0,0,0,,Right, right.
-Dialogue: 0,0:16:23.90,0:16:26.39,Default,,0,0,0,,Afterwards, Daruma-san turned into a gorilla.
-Dialogue: 0,0:16:26.39,0:16:27.89,Default,,0,0,0,,What is this?
-Dialogue: 0,0:16:27.89,0:16:28.96,Default,,0,0,0,,Fell in love.
-Dialogue: 0,0:16:28.96,0:16:30.09,Default,,0,0,0,,Fell in love and...
-Dialogue: 0,0:16:30.09,0:16:31.26,Default,,0,0,0,,I've come to like you.
-Dialogue: 0,0:16:32.13,0:16:34.60,Default,,0,0,0,,Tanaka-san, when you fall in love, you turn into that?
-Dialogue: 0,0:16:34.60,0:16:36.70,Default,,0,0,0,,You turn into that!
-Dialogue: 0,0:16:37.37,0:16:40.24,Default,,0,0,0,,What will Daruma-san do next?
-Dialogue: 0,0:16:40.24,0:16:42.17,Default,,0,0,0,,Daruma-san tripped.
-Dialogue: 0,0:16:42.52,0:16:43.46,Default,,0,0,0,,Tripped?
-Dialogue: 0,0:16:43.99,0:16:44.68,Default,,0,0,0,,You're good!
-Dialogue: 0,0:16:45.31,0:16:46.74,Default,,0,0,0,,Everyone's good, as expected.
-Dialogue: 0,0:16:47.12,0:16:49.81,Default,,0,0,0,,They're good at falling.
-Dialogue: 0,0:16:47.98,0:16:49.81,Default,,0,0,0,,- It looks like it hurts. Like he broke a bone.
-Dialogue: 0,0:16:49.81,0:16:51.33,Default,,0,0,0,,The important part is what you do afterwards.
-Dialogue: 0,0:16:51.33,0:16:52.94,Default,,0,0,0,,You have to continue acting.
-Dialogue: 0,0:16:52.94,0:16:53.92,Default,,0,0,0,,Continue acting.
-Dialogue: 0,0:16:53.92,0:16:55.95,Default,,0,0,0,,Continue acting until there's a cut.
-Dialogue: 0,0:16:55.95,0:16:56.89,Default,,0,0,0,,Haruppi, does it hurt?
-Dialogue: 0,0:16:56.89,0:16:58.49,Default,,0,0,0,,It hurts! I broke something.
-Dialogue: 0,0:16:58.49,0:16:59.94,Default,,0,0,0,,You broke something? Are you ok?
-Dialogue: 0,0:16:59.94,0:17:00.99,Default,,0,0,0,,I'm not ok.
-Dialogue: 0,0:17:02.20,0:17:06.20,Default,,0,0,0,,This "suu suu" noise you make is important.
-Dialogue: 0,0:17:04.10,0:17:06.20,Default,,0,0,0,,- Suu suu?
-Dialogue: 0,0:17:05.20,0:17:06.20,Default,,0,0,0,,{\fad(1)\fs50\pos(894,450)\c&HDDA358&\3c&HFAFCFC&\frz339}Suu--
-Dialogue: 0,0:17:05.52,0:17:06.20,Default,,0,0,0,,{\fad(1)\fs50\c&HDDA358&\3c&HFAFCFC&\pos(364,444)\frz12.55}Suu--
-Dialogue: 0,0:17:06.23,0:17:07.70,Default,,0,0,0,,{\fad(1)\fs60\c&HDDA358&\3c&HFAFCFC&\pos(1016,646)\frz339.3}Suu--
-Dialogue: 0,0:17:06.63,0:17:07.70,Default,,0,0,0,,{\fad(1)\fs60\c&HDDA358&\3c&HFAFCFC&\frz12.36\pos(352,610)}Suu--
-Dialogue: 0,0:17:06.97,0:17:10.47,Default,,0,0,0,,Don't all do it!
-Dialogue: 0,0:17:11.12,0:17:13.47,Default,,0,0,0,,And then, in the end...
-Dialogue: 0,0:17:13.93,0:17:16.14,Default,,0,0,0,,Daruma-san went bald.
-Dialogue: 0,0:17:16.90,0:17:17.96,Default,,0,0,0,,Everyone, go bald.
-Dialogue: 0,0:17:18.41,0:17:19.61,Default,,0,0,0,,Like that, like that. Nako!
-Dialogue: 0,0:17:22.25,0:17:23.68,Default,,0,0,0,,Manly, manly.
-Dialogue: 0,0:17:23.68,0:17:25.28,Default,,0,0,0,,She's balding too much.
-Dialogue: 0,0:17:25.28,0:17:28.05,Default,,0,0,0,,Pull it back more!
-Dialogue: 0,0:17:30.02,0:17:31.02,Default,,0,0,0,,Incredible.
-Dialogue: 0,0:17:31.02,0:17:34.36,Default,,0,0,0,,If you do that, no one will tease me about going bald.
-Dialogue: 0,0:17:35.35,0:17:36.33,Default,,0,0,0,,If you do it like that.
-Dialogue: 0,0:17:37.48,0:17:39.93,Default,,0,0,0,,Ok Tanaka-san, how was your shopping experience today?
-Dialogue: 0,0:17:40.62,0:17:41.87,Default,,0,0,0,,Well, it was fun.
-Dialogue: 0,0:17:41.87,0:17:43.60,Default,,0,0,0,,It was fun? Yay!
-Dialogue: 0,0:17:43.60,0:17:47.91,Default,,0,0,0,,It's not often that I get to have a good time with women like this.
-Dialogue: 0,0:17:46.63,0:17:47.91,Default,,0,0,0,,- That's true.
-Dialogue: 0,0:17:47.91,0:17:50.84,Default,,0,0,0,,It was practice for talking to women.
-Dialogue: 0,0:17:50.84,0:17:53.61,Default,,0,0,0,,Ah, that's good. Did everyone have fun?
-Dialogue: 0,0:17:53.61,0:17:55.11,Default,,0,0,0,,It was fun!
-Dialogue: 0,0:17:55.44,0:18:00.05,Default,,0,0,0,,Finally, Ungirls Tanaka-san will announce his oshimen.
-Dialogue: 0,0:18:00.40,0:18:02.00,Default,,0,0,0,,I...
-Dialogue: 0,0:18:02.00,0:18:03.51,Default,,0,0,0,,Tanaka,
-Dialogue: 0,0:18:03.51,0:18:07.86,Default,,0,0,0,,have decided that my HKT48 oshimen is...
-Dialogue: 0,0:18:11.93,0:18:14.13,Default,,0,0,0,,It's Tomonaga-chan!
-Dialogue: 0,0:18:15.50,0:18:16.47,Default,,0,0,0,,Eh, no way!
-Dialogue: 0,0:18:16.47,0:18:22.04,Default,,0,0,0,,It's because you made the box lunch that left a big impression.
-Dialogue: 0,0:18:22.04,0:18:24.71,Default,,0,0,0,,It was my first time being fed by a woman.
-Dialogue: 0,0:18:24.71,0:18:25.44,Default,,0,0,0,,Your first time?
-Dialogue: 0,0:18:25.44,0:18:27.58,Default,,0,0,0,,As the first woman.
-Dialogue: 0,0:18:28.03,0:18:29.41,Default,,0,0,0,,How do you feel? Are you happy?
-Dialogue: 0,0:18:29.41,0:18:31.75,Text,,0,0,0,,{\bord20\shad0\1c&HDFEA99&\an7\p1\3c&HDFEA99&\2c&HD2EB7C&\pos(771,526)}m 0 0  l 380 0  380 10  0 10\N
-Dialogue: 0,0:18:29.41,0:18:31.75,Text,,0,0,0,,{\fs50\c&H000000&\3c&HFAFCFC&\pos(945,553)}Honestly Puzzled
-Dialogue: 0,0:18:29.41,0:18:31.75,Default,,0,0,0,,Yes, I'm happy. Very much so.
-Dialogue: 0,0:18:30.50,0:18:31.75,Default,,0,0,0,,- You're happy about it?
-Dialogue: 0,0:18:31.75,0:18:34.41,Default,,0,0,0,,You just wanted the badge at all costs.
-Dialogue: 0,0:18:34.41,0:18:36.07,Default,,0,0,0,,You can't lose it here.
-Dialogue: 0,0:18:36.62,0:18:42.53,Default,,0,0,0,,Tomonaga, who was chosen as Tanaka-san's oshimen, will receive a gourmet reward after this.
-Dialogue: 0,0:18:46.11,0:18:48.60,Default,,0,0,0,,There's a reason these two are the MCs this week.
-Dialogue: 0,0:18:48.60,0:18:51.80,Default,,0,0,0,,Let's think of a chara for MC Aramaki!
-Dialogue: 0,0:18:48.79,0:18:51.80,Text,,0,0,0,,{\fad(200,0)\bord20\shad0\1c&HF1ABFC&\an7\p1\3c&HF1ABFC&\2c&HD2EB7C&\pos(856,532)}m 0 0  l 300 0  300 10  0 10\N
-Dialogue: 0,0:18:48.79,0:18:51.80,Text,,0,0,0,,{\fad(200,0)\bord20\shad0\1c&HF1ABFC&\an7\p1\3c&HF1ABFC&\2c&HD2EB7C&\pos(315,532)}m 0 0  l 205 0  205 10  0 10\N
-Dialogue: 0,0:18:48.79,0:18:51.80,Member Name,,0,0,0,,{\fad(200,0)\fs30\c&HBB00CD&\3c&HFFFFFF&\4c&HF1ABFC&\pos(414,550)}Aramaki Misaki
-Dialogue: 0,0:18:48.79,0:18:51.80,Member Name,,0,0,0,,{\fad(200,0)\fs30\c&HBB00CD&\3c&HFFFFFF&\4c&HF1ABFC&\pos(1009,550)}Tanaka Natsumi
-Dialogue: 0,0:18:52.94,0:18:53.64,Default,,0,0,0,,So suddenly!
-Dialogue: 0,0:18:54.38,0:18:59.38,Default,,0,0,0,,On today's Annex, it was decided that they will make kenkyuusei Aramaki cosplay.
-Dialogue: 0,0:18:59.38,0:19:01.78,Default,,0,0,0,,We'll discuss what we want Aramaki-chan to wear.
-Dialogue: 0,0:19:03.10,0:19:03.54,Default,,0,0,0,,Me!
-Dialogue: 0,0:19:03.54,0:19:04.45,Default,,0,0,0,,Yes, Haruppi.
-Dialogue: 0,0:19:04.45,0:19:08.20,Default,,0,0,0,,Something white and fluffy. Kind of angel-like.
-Dialogue: 0,0:19:08.20,0:19:09.09,Default,,0,0,0,,I see.
-Dialogue: 0,0:19:09.28,0:19:10.18,Default,,0,0,0,,Then, Moripo.
-Dialogue: 0,0:19:10.18,0:19:11.88,Default,,0,0,0,,Eh? What could it be...
-Dialogue: 0,0:19:13.06,0:19:14.17,Default,,0,0,0,,Maybe a devil.
-Dialogue: 0,0:19:15.99,0:19:17.18,Default,,0,0,0,,I feel like she'll turn into a small devil.
-Dialogue: 0,0:19:17.18,0:19:20.60,Default,,0,0,0,,That's right. If she were a devil, it'll be completely fine.
-Dialogue: 0,0:19:19.16,0:19:20.60,Default,,0,0,0,,- I'll be ok with her doing anything to me.
-Dialogue: 0,0:19:20.60,0:19:21.73,Default,,0,0,0,,Right?
-Dialogue: 0,0:19:22.31,0:19:25.74,Default,,0,0,0,,When we look at the HKT members' questionnaire...
-Dialogue: 0,0:19:25.74,0:19:27.77,Default,,0,0,0,,From Matsuoka Natsumi-chan...
-Dialogue: 0,0:19:27.77,0:19:30.88,Default,,0,0,0,,Wearing [censored], I want her to hold a stuffed animal.
-Dialogue: 0,0:19:33.72,0:19:39.32,Default,,0,0,0,,Therefore, using the questionnaire answers as reference, Boss decides on the cosplay outfit.
-Dialogue: 0,0:19:39.32,0:19:43.05,Default,,0,0,0,, What kind of outfit will she come out wearing?
-Dialogue: 0,0:19:43.05,0:19:44.52,Default,,0,0,0,,Misaki-chan!
-Dialogue: 0,0:19:44.75,0:19:45.52,Default,,0,0,0,,Yes.
-Dialogue: 0,0:19:46.96,0:19:48.93,Default,,0,0,0,,Cute!
-Dialogue: 0,0:19:48.93,0:19:52.23,Text,,0,0,0,,{\c&HF343FF&\3c&HFAFCFC&}What Kind of Cosplay {\c&HFFC95C&}Will Aramaki {\c&H2F4EFA&}Come Out Wearing?
-Dialogue: 0,0:19:52.23,0:19:53.70,Default,,0,0,0,,Misaki-chan!
-Dialogue: 0,0:19:53.99,0:19:54.65,Default,,0,0,0,,Yes.
-Dialogue: 0,0:19:56.12,0:19:57.72,Default,,0,0,0,,Cute!
-Dialogue: 0,0:19:57.72,0:20:02.04,Text,,0,0,0,,{\fad(300,0)\fs50\3c&H683BFB&\pos(145,450)}White Pajamas
-Dialogue: 0,0:19:57.72,0:20:02.04,Text,,0,0,0,,{\fad(300,0)\fs40\3c&H683BFB&\pos(198,483)}+ A Bunny Stuffed Animal
-Dialogue: 0,0:19:58.76,0:20:01.54,Default,,0,0,0,,Cute!
-Dialogue: 0,0:20:02.04,0:20:03.44,Default,,0,0,0,,Better than I imagined!
-Dialogue: 0,0:20:03.44,0:20:05.58,Default,,0,0,0,,There's something I want you to say.
-Dialogue: 0,0:20:05.58,0:20:08.45,Default,,0,0,0,,I want her to be frank and say, "Oniichan, I love you."
-Dialogue: 0,0:20:08.45,0:20:09.13,Default,,0,0,0,,Yes.
-Dialogue: 0,0:20:09.75,0:20:11.05,Default,,0,0,0,,Then, please!
-Dialogue: 0,0:20:12.42,0:20:14.75,Default,,0,0,0,,{\fad(300,0)}Oniichan, I love you!
-Dialogue: 0,0:20:14.75,0:20:15.99,Default,,0,0,0,,Cute!
-Dialogue: 0,0:20:15.99,0:20:17.49,Default,,0,0,0,,I'll be your oniichan!
-Dialogue: 0,0:20:17.49,0:20:18.62,Default,,0,0,0,,Eh? {\alpha&HFF%}You can't become that!
-Dialogue: 0,0:20:18.62,0:20:20.16,Default,,0,0,0,,Eh? You can't become that!
-Dialogue: 0,0:20:21.12,0:20:22.93,Default,,0,0,0,,A must-see for fans!
-Dialogue: 0,0:20:22.93,0:20:28.00,Default,,0,0,0,,The complete Aramaki MC episode will be available exclusively on Hulu!
-Dialogue: 0,0:20:28.20,0:20:30.58,Default,,0,0,0,,{\fad(0,400)}Umm...
-Dialogue: 0,0:20:30.58,0:20:32.15,Default,,0,0,0,,Do your best!
-Dialogue: 0,0:20:31.08,0:20:32.15,Default,,0,0,0,,- Can you do it?
-Dialogue: 0,0:20:32.15,0:20:32.94,Default,,0,0,0,,It's ok.
-Dialogue: 0,0:20:32.94,0:20:35.31,Default,,0,0,0,,I'm not sure who the host is supposed to be.
-Dialogue: 0,0:20:37.96,0:20:40.86,Default,,0,0,0,,HaKaTa Hyakkaten 3 will still continue after this!
-Dialogue: 0,0:20:41.12,0:20:42.72,Default,,0,0,0,,I won't let you fall asleep.
-Dialogue: 0,0:20:45.36,0:20:49.84,Default,,0,0,0,,Today's gourmet reward is from Garrett Popcorn Shop. It's the Chicago mix,
-Dialogue: 0,0:20:49.84,0:20:51.26,Default,,0,0,0,,2 gallon can!
-Dialogue: 0,0:20:54.13,0:20:55.39,Default,,0,0,0,,This is cool!
-Dialogue: 0,0:20:54.62,0:20:55.39,Default,,0,0,0,,- Amazing!
-Dialogue: 0,0:20:55.39,0:20:57.06,Default,,0,0,0,,What is this?
-Dialogue: 0,0:20:55.39,0:20:57.06,Default,,0,0,0,,- Looks delicious!
-Dialogue: 0,0:20:57.06,0:20:58.09,Default,,0,0,0,,You're supposed to eat this together.
-Dialogue: 0,0:20:58.09,0:20:58.73,Default,,0,0,0,,Is that so?
-Dialogue: 0,0:20:58.73,0:20:59.53,Default,,0,0,0,,That's right.
-Dialogue: 0,0:20:58.09,0:20:59.53,Default,,0,0,0,,- It's really pretty.
-Dialogue: 0,0:20:59.93,0:21:01.80,Default,,0,0,0,,Looks delicious. Please try it, Mio-chan.
-Dialogue: 0,0:21:01.80,0:21:02.85,Default,,0,0,0,,Then, itadakimasu.
-Dialogue: 0,0:21:03.20,0:21:04.50,Default,,0,0,0,,I'm going to eat 2.
-Dialogue: 0,0:21:03.20,0:21:04.50,Default,,0,0,0,,- Looks delicious!
-Dialogue: 0,0:21:09.62,0:21:10.28,Default,,0,0,0,,How is it?
-Dialogue: 0,0:21:09.84,0:21:11.28,Default,,0,0,0,,- It's delicious.
-Dialogue: 0,0:21:10.28,0:21:11.28,Default,,0,0,0,,It's good?
-Dialogue: 0,0:21:11.63,0:21:14.24,Default,,0,0,0,,How is it different from the one you eat at the movie theater?
-Dialogue: 0,0:21:14.24,0:21:16.85,Default,,0,0,0,,As expected, it's completely different.
-Dialogue: 0,0:21:15.93,0:21:16.85,Default,,0,0,0,,- It's completely different?
-Dialogue: 0,0:21:16.85,0:21:19.32,Default,,0,0,0,,There's the sweet one, and the spicy one is on this side.
-Dialogue: 0,0:21:19.32,0:21:20.42,Default,,0,0,0,,Ah, the salty one is on this side.
-Dialogue: 0,0:21:20.42,0:21:21.35,Default,,0,0,0,,It's a good mix.
-Dialogue: 0,0:21:21.35,0:21:22.07,Default,,0,0,0,,I see.
-Dialogue: 0,0:21:22.07,0:21:23.38,Default,,0,0,0,,Then let's eat.
-Dialogue: 0,0:21:22.86,0:21:23.38,Default,,0,0,0,,- Let's eat.
-Dialogue: 0,0:21:23.38,0:21:24.39,Default,,0,0,0,,Please eat.
-Dialogue: 0,0:21:25.29,0:21:26.39,Default,,0,0,0,,Wah, it's a crab.
-Dialogue: 0,0:21:26.39,0:21:27.45,Default,,0,0,0,,You're right...
-Dialogue: 0,0:21:27.93,0:21:29.98,Default,,0,0,0,,That's disgusting!
-Dialogue: 0,0:21:29.98,0:21:31.76,Default,,0,0,0,,She already received the badge, so she's like this now.
-Dialogue: 0,0:21:31.76,0:21:32.50,Default,,0,0,0,,That's disgusting.
-Dialogue: 0,0:21:32.50,0:21:33.80,Default,,0,0,0,,Not good anymore.
-Dialogue: 0,0:21:33.80,0:21:35.37,Default,,0,0,0,,Don't say that!
-Dialogue: 0,0:21:35.37,0:21:36.91,Default,,0,0,0,,You've got to be kidding me, seriously.
-Dialogue: 0,0:21:38.28,0:21:41.74,Default,,0,0,0,,Next week, they will welcome Shisonnu and do a monoboke competition.
-Dialogue: 0,0:21:42.25,0:21:44.84,Default,,0,0,0,,That's good.
-Dialogue: 0,0:21:46.01,0:21:49.85,Default,,0,0,0,,After this, a word from the members that will perk you up.
-Dialogue: 0,0:21:50.66,0:21:52.82,Default,,0,0,0,,An announcement from the show.
-Dialogue: 0,0:21:52.82,0:22:01.89,Default,,0,0,0,,HaKaTa Hyakkaten 3 will be available on Hulu and NTV on-demand.
-Dialogue: 0,0:22:02.40,0:22:04.90,Default,,0,0,0,,For more information, head to the show's homepage.
-Dialogue: 0,0:22:06.55,0:22:15.07,Member Name,,0,0,0,,{\fad(400,0)\bord20\shad0\1c&HF1ABFC&\an7\p1\3c&HF1ABFC&\2c&HD2EB7C&\pos(757,536)}m 0 0  l 438 0  438 10  0 10\N
-Dialogue: 0,0:22:06.55,0:22:15.07,Member Name,,0,0,0,,{\fad(400,0)\fs38\c&HBB00CD&\3c&HFFFFFF&\4c&HF1ABFC&\pos(984,561)}Moriyasu Madoka
-Dialogue: 0,0:22:08.87,0:22:15.07,Default,,0,0,0,,I'll do my best to talk more. Please cheer me on.
+Dialogue: 0,0:08:14.08,0:08:16.79,Default,,0,0,0,,เปิดกล่องเจออย่างนี้ดีใจแย่เลยเนอะ
+Dialogue: 0,0:08:16.79,0:08:19.67,Default,,0,0,0,,เบ็นโตะสู้ๆ "แด่ทานากะซังที่งานยุ่ง"
+Dialogue: 0,0:08:19.67,0:08:22.27,Default,,0,0,0,,เคยได้อะไรอย่างนี้ครั้งแรก มันดีใจขนาดนี้เลยเหรอเนี่ย
+Dialogue: 0,0:08:22.70,0:08:24.08,Default,,0,0,0,,แล้วก็แบบนี้
+Dialogue: 0,0:08:24.18,0:08:24.84,Default,,0,0,0,,อ๊ะ น่ารัก
+Dialogue: 0,0:08:25.16,0:08:26.73,Default,,0,0,0,,ทานากะ...
+Dialogue: 0,0:08:26.73,0:08:28.20,Default,,0,0,0,,ดะ.. ได?
+Dialogue: 0,0:08:28.20,0:08:29.25,Default,,0,0,0,,ดับเบิล?
+Dialogue: 0,0:08:29.48,0:08:30.56,Default,,0,0,0,,"ทานากะ ดับเบิล" หมายความว่าไง?
+Dialogue: 0,0:08:30.94,0:08:32.16,Default,,0,0,0,,ชื่อเดียวกันรึเปล่า
+Dialogue: 0,0:08:32.16,0:08:35.05,Default,,0,0,0,,ทานากะซัง นี่คงเป็นของทานากะคนใดคนหนึ่งค่ะ
+Dialogue: 0,0:08:33.44,0:08:35.05,Default,,0,0,0,,- อ๋อ ของทานากะนี่เอง
+Dialogue: 0,0:08:35.05,0:08:36.42,Default,,0,0,0,,คนใดคนหนึ่งทำแน่ๆ
+Dialogue: 0,0:08:36.42,0:08:39.12,Default,,0,0,0,,ดับเบิลทานากะอย่างนี้นี่เอง อยากให้ทานด้วยกันสินะ?
+Dialogue: 0,0:08:39.52,0:08:40.34,Default,,0,0,0,,เอ๋?
+Dialogue: 0,0:08:40.34,0:08:41.63,Default,,0,0,0,,ไม่ถึงขนาดนั้นเหรอ
+Dialogue: 0,0:08:41.63,0:08:44.55,Default,,0,0,0,,ไม่ได้อยากถึงขนาดนั้นหรอกเหรอ
+Dialogue: 0,0:08:44.96,0:08:46.55,Default,,0,0,0,,ปลาฝอยเหรอ...
+Dialogue: 0,0:08:46.55,0:08:48.83,Default,,0,0,0,,ไม่ค่อยชอบเท่าไรนะ
+Dialogue: 0,0:08:48.83,0:08:50.40,Default,,0,0,0,,ดูไม่เหมาะกับกับข้าวเท่าไรสินะคะ
+Dialogue: 0,0:08:50.40,0:08:52.24,Default,,0,0,0,,แล้วก็ไม่ควรโรยซะเยอะขนาดนี้ด้วย
+Dialogue: 0,0:08:52.56,0:08:53.94,Default,,0,0,0,,จุดเด่นนะคะนั่น
+Dialogue: 0,0:08:54.33,0:08:55.96,Default,,0,0,0,,จากนั้น...
+Dialogue: 0,0:08:55.96,0:08:57.08,Default,,0,0,0,,เดี๋ยวเถอะ
+Dialogue: 0,0:08:58.11,0:08:59.21,Default,,0,0,0,,นี่...
+Dialogue: 0,0:08:59.21,0:09:01.98,Default,,0,0,0,,เล่นง่ายไปหน่อยมั้ย?
+Dialogue: 0,0:09:01.98,0:09:03.38,Default,,0,0,0,,ไม่ทันสังเกตค่ะ
+Dialogue: 0,0:09:03.38,0:09:05.98,Default,,0,0,0,,ดูเผินๆ ก็น่ากินอยู่หรอก
+Dialogue: 0,0:09:05.98,0:09:07.75,Default,,0,0,0,,แต่ทำง่ายไปหน่อยนะคะ
+Dialogue: 0,0:09:06.55,0:09:07.75,Default,,0,0,0,,- เล่นง่ายงี้เลย
+Dialogue: 0,0:09:08.30,0:09:11.79,Default,,0,0,0,,คนที่ทำเบ็นโตะซึ่งถูกว่าซะเละคนนี้คือ...
+Dialogue: 0,0:09:11.79,0:09:16.09,Default,,0,0,0,,ฉันได้ยินว่าทานากะซังชอบหมูผัดเปรี้ยวหวาน
+Dialogue: 0,0:09:16.09,0:09:18.43,Default,,0,0,0,,ฉันทำเบ็นโตะวันนี้ครั้งแรกค่ะ
+Dialogue: 0,0:09:18.43,0:09:26.14,Member Name,,0,0,0,,{\pos(1096,169)}ซากาโมโตะ เอเรนะ
+Dialogue: 0,0:09:19.23,0:09:26.14,Default,,0,0,0,,คือเคงคิวเซย์ ซากาโมโตะ เอเรนะ\Nที่ไม่ได้ตั้งใจทำแบบขอไปที แต่เป็นการทำเบ็นโตะครั้งแรกค่ะ
+Dialogue: 0,0:09:26.34,0:09:28.71,Default,,0,0,0,,ที่แย่ที่สุดก็นี่ นี่เลย
+Dialogue: 0,0:09:28.71,0:09:30.84,Default,,0,0,0,,เล่นง่ายเกินไปแล้ว
+Dialogue: 0,0:09:31.04,0:09:33.11,Default,,0,0,0,,จะบ้ารึไง
+Dialogue: 0,0:09:33.11,0:09:38.85,Default,,0,0,0,,ไอเดียต้องเป็น "อ๊ะ ทานากะซังหัวล้านสินะ กินนี่ละกัน" แน่ๆ
+Dialogue: 0,0:09:37.77,0:09:38.85,Default,,0,0,0,,- ไม่ผิดแน่ค่ะ
+Dialogue: 0,0:09:38.85,0:09:42.62,Default,,0,0,0,,ฉันไม่ได้กังวลเรื่องหัวล้านมากขนาดนั้นนะ
+Dialogue: 0,0:09:43.16,0:09:45.12,Default,,0,0,0,,ไม่ได้กังวลเหรอคะ
+Dialogue: 0,0:09:44.07,0:09:45.12,Default,,0,0,0,,- แล้วนี่อะไร?
+Dialogue: 0,0:09:45.12,0:09:46.96,Default,,0,0,0,,นี่อะไรเหรอคะ?
+Dialogue: 0,0:09:46.96,0:09:48.00,Default,,0,0,0,,ลาซานญ่า?
+Dialogue: 0,0:09:48.24,0:09:49.93,Default,,0,0,0,,ลาซานญ่ากับข้าวสวยค่ะ
+Dialogue: 0,0:09:49.93,0:09:52.20,Default,,0,0,0,,นี่มันของที่ยามาเนะชอบ
+Dialogue: 0,0:09:52.20,0:09:55.73,Text,,0,0,0,,{\clip(700.8,550.4,1168,651.2)\pos(929.6,638)}บอสตายน้ำตื้น
+Dialogue: 0,0:09:52.57,0:09:54.78,Default,,0,0,0,,ยามาเนะชอบลาซานญ่ามาก
+Dialogue: 0,0:09:55.00,0:09:55.73,Default,,0,0,0,,แล้วนี่ล่ะ?
+Dialogue: 0,0:09:56.33,0:10:01.25,Default,,0,0,0,,แพนเค้ก พิสตาชิโอ แล้วก็ครีมสด... ทำไมถึงใส่พิสตาชิโอก็ไม่รู้
+Dialogue: 0,0:10:01.25,0:10:04.69,Default,,0,0,0,,แต่ครีมบนแพนเค้กเลอะไก่ทอดไปเรียบร้อย
+Dialogue: 0,0:10:04.69,0:10:06.01,Default,,0,0,0,,เละเทะสุดๆ
+Dialogue: 0,0:10:06.28,0:10:08.61,Default,,0,0,0,,น่าคลื่นไส้...
+Dialogue: 0,0:10:09.78,0:10:15.92,Default,,0,0,0,,หลังพินิจพิจารณาอย่างถี่ถ้วน อันดับสามที่ทานากะซังเลือกคือ?
+Dialogue: 0,0:10:16.14,0:10:19.58,Default,,0,0,0,,ลาก่อนผมบาง! เบ็นโตะผมหนาปุกปุย
+Dialogue: 0,0:10:20.93,0:10:22.13,Default,,0,0,0,,น่าอร่อยมาก
+Dialogue: 0,0:10:22.13,0:10:26.00,Default,,0,0,0,,พูดตามตรง ฉันกังวลเรื่องผมบางอยู่นิดๆ แต่ไม่ได้มากขนาดนั้น
+Dialogue: 0,0:10:26.00,0:10:26.48,Default,,0,0,0,,รู้ใจดีมาก
+Dialogue: 0,0:10:26.48,0:10:28.07,Default,,0,0,0,,สาหร่ายฮิจิกิก็ไม่ได้เยอะอะไร
+Dialogue: 0,0:10:28.43,0:10:32.87,Default,,0,0,0,,ในใจฉันน่ะ กังวลเรื่องหัวล้านอยู่แค่นี้แหละ
+Dialogue: 0,0:10:31.40,0:10:32.87,Default,,0,0,0,,- กังวลนิดๆ กำลังดีเลยสินะคะ?
+Dialogue: 0,0:10:32.87,0:10:33.97,Default,,0,0,0,,ปริมาณกำลังดีเลย
+Dialogue: 0,0:10:33.97,0:10:36.22,Default,,0,0,0,,ใครเป็นคนทำเบ็นโตะกล่องนี้เหรอ?
+Dialogue: 0,0:10:36.22,0:10:36.84,Default,,0,0,0,,ค่ะ!
+Dialogue: 0,0:10:36.84,0:10:37.95,Default,,0,0,0,,วากะจัง!
+Dialogue: 0,0:10:37.95,0:10:39.08,Default,,0,0,0,,ยอดมาก
+Dialogue: 0,0:10:39.69,0:10:43.72,Default,,0,0,0,,อันดับสามคือ วากาทาเบะ ฮารุกะ ค่ะ
+Dialogue: 0,0:10:43.72,0:10:50.87,Default,,0,0,0,,สีสันก็ครบถ้วน เหลือง แดง เขียว
+Dialogue: 0,0:10:50.16,0:10:50.87,Default,,0,0,0,,- นั่นสินะคะ
+Dialogue: 0,0:10:50.87,0:10:54.79,Default,,0,0,0,,ฉันคิดว่าทานากะซังเป็นกังวลเรื่องผมบาง
+Dialogue: 0,0:10:54.79,0:10:57.28,Default,,0,0,0,,ก็เลยเซิร์ช "ผมบาง อาหาร" ก่อนทำค่ะ
+Dialogue: 0,0:10:57.28,0:10:59.54,Default,,0,0,0,,ก็มีคำแนะนำว่า ไข่
+Dialogue: 0,0:10:59.54,0:11:01.00,Default,,0,0,0,,จริงเหรอ?
+Dialogue: 0,0:10:59.83,0:11:01.00,Default,,0,0,0,,- ไข่ก็ช่วยเหรอ?
+Dialogue: 0,0:11:01.00,0:11:03.44,Default,,0,0,0,,สาหร่ายฮิจิกิ แล้วก็สาหร่ายทะเล
+Dialogue: 0,0:11:03.44,0:11:04.50,Default,,0,0,0,,จริงด้วย
+Dialogue: 0,0:11:04.50,0:11:07.44,Default,,0,0,0,,ตับผัดกุยช่าย แล้วก็ข้างในนี้เป็นนัตโตะกับกิมจิค่ะ
+Dialogue: 0,0:11:07.44,0:11:09.01,Default,,0,0,0,,ว้าว สุดยอด!!
+Dialogue: 0,0:11:09.01,0:11:09.61,Default,,0,0,0,,น่าชื่นชม
+Dialogue: 0,0:11:09.61,0:11:10.54,Default,,0,0,0,,ดีต่อคนหัวล้านเหรอ?
+Dialogue: 0,0:11:10.54,0:11:11.41,Default,,0,0,0,,ดีต่อคนหัวล้านค่ะ
+Dialogue: 0,0:11:14.31,0:11:16.45,Text,,0,0,0,,{\clip(620.8,545.6,1166.4,644.8)\pos(896.8,633.2)}ป้องกันหัวล้านเต็มกำลัง
+Dialogue: 0,0:11:12.71,0:11:16.45,Default,,0,0,0,,สรุปว่าเบ็นโตะนี่ทำออกมาป้องกันหัวล้านทั้งกล่องเลยนี่หว่า!
+Dialogue: 0,0:11:15.88,0:11:16.45,Default,,0,0,0,,- ใช่ค่ะ
+Dialogue: 0,0:11:16.45,0:11:19.92,Default,,0,0,0,,แต่กลับไม่ทันสังเกต แปลว่าเธอช่วยอย่างเป็นธรรมชาติยังไงล่ะคะ
+Dialogue: 0,0:11:17.07,0:11:19.92,Default,,0,0,0,,- จริงด้วย ฉันไม่ทันสังเกตเลย
+Dialogue: 0,0:11:20.53,0:11:23.92,Default,,0,0,0,,การช่วยเหลือผมบางอย่างแนบเนียน ทำคะแนนให้เธอไปค่ะ
+Dialogue: 0,0:11:24.51,0:11:26.22,Default,,0,0,0,,ต่อด้วยอันดับสองค่ะ
+Dialogue: 0,0:11:26.22,0:11:30.00,Default,,0,0,0,,รับรองผอมแต่กล้ามฟิต เบ็นโตะสารอาหารครบ!
+Dialogue: 0,0:11:30.17,0:11:32.30,Default,,0,0,0,,ของใครคะ?
+Dialogue: 0,0:11:32.30,0:11:32.83,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:11:33.30,0:11:37.44,Default,,0,0,0,,ปรากฏว่าอันดับสองคือเคงคิวเซย์ อารามากิ มิซากิค่ะ
+Dialogue: 0,0:11:37.44,0:11:38.81,Default,,0,0,0,,จุดสำคัญอยู่ตรงไหนเหรอคะ?
+Dialogue: 0,0:11:39.30,0:11:44.59,Default,,0,0,0,,นี่ก็สีสันสดใส มีปูที่ฉันชอบด้วย
+Dialogue: 0,0:11:42.37,0:11:44.59,Default,,0,0,0,,- จริงด้วย ทานากะซังชอบปูนี่นา
+Dialogue: 0,0:11:45.64,0:11:50.72,Default,,0,0,0,,จัดได้ลงตัวมากเลยนะ ใส่ใจเรื่องการจัดวางสีเหรอ?
+Dialogue: 0,0:11:50.88,0:11:51.78,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:11:51.78,0:11:54.81,Default,,0,0,0,,เยี่ยมเลย จะว่าไงดี...
+Dialogue: 0,0:11:54.81,0:11:57.69,Default,,0,0,0,,{\fad(200,0)}เธอเป็นเด็กดีจริงๆ นะเนี่ย
+Dialogue: 0,0:11:57.69,0:11:58.86,Default,,0,0,0,,ทำออกมาราบรื่นมั้ย?
+Dialogue: 0,0:11:58.86,0:12:01.18,Default,,0,0,0,,อืม... ตอนจัดวางยากมากเลยค่ะ
+Dialogue: 0,0:12:01.18,0:12:02.19,Default,,0,0,0,,ยากมากเหรอ?
+Dialogue: 0,0:12:02.46,0:12:04.46,Default,,0,0,0,,ชอบตรงไหนมากที่สุด?
+Dialogue: 0,0:12:04.46,0:12:05.54,Default,,0,0,0,,ปูค่ะ
+Dialogue: 0,0:12:05.54,0:12:07.87,Default,,0,0,0,,ปูสินะ เพราะทานากะซังชอบปูมาก
+Dialogue: 0,0:12:06.03,0:12:07.87,Default,,0,0,0,,- อืม จริงด้วย
+Dialogue: 0,0:12:08.13,0:12:12.64,Default,,0,0,0,,อยากให้เล่นเป็นปูให้เต็มที่ แล้วกินปูที่ฉันทำค่ะ
+Dialogue: 0,0:12:13.20,0:12:17.48,Default,,0,0,0,,เธอคว้าอันดับสองไปอย่างงดงาม ด้วยการยึดมั่นใน\Nความสามารถพิเศษในการแปลงเป็นปูของทานากะซังค่ะ
+Dialogue: 0,0:12:18.24,0:12:20.41,Default,,0,0,0,,เอาล่ะ อันดับหนึ่งจะเป็นใครกัน?
+Dialogue: 0,0:12:20.41,0:12:21.79,Default,,0,0,0,,อันดับหนึ่งคือ...
+Dialogue: 0,0:12:22.81,0:12:26.44,Default,,0,0,0,,แด่ทานากะซังที่งานยุ่ง เบ็นโตะสู้ๆ นะ!
+Dialogue: 0,0:12:27.29,0:12:29.35,Default,,0,0,0,,ใครเป็นคนทำเบ็นโตะกล่องนี้คะ?
+Dialogue: 0,0:12:29.35,0:12:29.76,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:12:29.76,0:12:31.10,Default,,0,0,0,,อ๊ะ อาโออิ!
+Dialogue: 0,0:12:31.10,0:12:32.36,Default,,0,0,0,,ดีใจด้วย
+Dialogue: 0,0:12:32.96,0:12:37.00,Default,,0,0,0,,อันดับหนึ่งคือ โมโตมุระ อาโออิ!
+Dialogue: 0,0:12:37.00,0:12:40.03,Default,,0,0,0,,จะให้เปิดเบ็นโตะนี้ทานในห้องเตรียมตัวมันก็น่าอายไปหน่อยนะ
+Dialogue: 0,0:12:39.43,0:12:40.03,Default,,0,0,0,,- จริงด้วย
+Dialogue: 0,0:12:40.03,0:12:43.87,Default,,0,0,0,,ไม่รู้ยามาเนะจะว่าไงเลยถ้าโดนเห็นเข้า
+Dialogue: 0,0:12:43.87,0:12:49.54,Default,,0,0,0,,แต่เกิดเป็นผู้ชาย ก็อยากมีคนทำอะไรอย่างนี้ให้ซักครั้งในชีวิตน่ะ
+Dialogue: 0,0:12:49.54,0:12:53.75,Default,,0,0,0,,อารมณ์ว่ากินไปก็พูด "ไม่เอานะ มันอายอะ" ไป
+Dialogue: 0,0:12:53.75,0:12:55.19,Default,,0,0,0,,"ทีหลังไม่เอานะ" แบบนี้เหรอคะ
+Dialogue: 0,0:12:55.19,0:12:59.01,Default,,0,0,0,,ทำแบบนี้ให้ทุกครั้งก็ไม่ไหวเหมือนกัน แต่เวลาเหนื่อยๆ เนี่ย
+Dialogue: 0,0:12:59.01,0:13:01.01,Default,,0,0,0,,เปิดดูแล้วมีแรงพยายามขึ้นมาเลย
+Dialogue: 0,0:13:01.02,0:13:03.59,Default,,0,0,0,,ต้องพยายามเพื่อโมโตมุระจังแล้วล่ะ
+Dialogue: 0,0:13:03.59,0:13:05.82,Default,,0,0,0,,ดีใจใหญ่เลย
+Dialogue: 0,0:13:04.22,0:13:05.82,Default,,0,0,0,,- ดีใจค่ะ
+Dialogue: 0,0:13:06.28,0:13:09.66,Default,,0,0,0,,ข้าวผัดไก่ห่อไข่รูปหัวใจอันแสนน่ากิน
+Dialogue: 0,0:13:10.90,0:13:15.17,Default,,0,0,0,,บวกด้วยข้อความที่โมโตมุระเขียนด้วยความตื่นเต้น
+Dialogue: 0,0:13:15.83,0:13:17.34,Default,,0,0,0,,เสร็จแล้ว!
+Dialogue: 0,0:13:18.04,0:13:19.60,Default,,0,0,0,,ยินดีด้วย
+Dialogue: 0,0:13:18.27,0:13:19.60,Default,,0,0,0,,- เยี่ยมสุดๆ
+Dialogue: 0,0:13:19.60,0:13:21.51,Default,,0,0,0,,อันดับหนึ่งเลย
+Dialogue: 0,0:13:21.51,0:13:23.34,Default,,0,0,0,,ยินดีด้วย
+Dialogue: 0,0:13:22.00,0:13:23.34,Default,,0,0,0,,- ขอบคุณมากค่ะ
+Dialogue: 0,0:13:23.34,0:13:30.28,Default,,0,0,0,,ถึงการจัดอันดับจะจบลง\Nแต่ทานากะซังก็บอกว่ามีเบ็นโตะที่อยากต่อว่าให้ได้...
+Dialogue: 0,0:13:31.02,0:13:32.11,Default,,0,0,0,,กล่องนี้เลย
+Dialogue: 0,0:13:32.11,0:13:32.78,Default,,0,0,0,,ใครทำ?
+Dialogue: 0,0:13:33.27,0:13:34.19,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:13:34.19,0:13:36.89,Default,,0,0,0,,เธอจะบ้าเหรอ!?
+Dialogue: 0,0:13:36.89,0:13:40.39,Default,,0,0,0,,อย่าเพิ่งโกรธสิคะ ฟังก่อนๆ
+Dialogue: 0,0:13:36.89,0:13:40.39,Default,,0,0,0,,- นี่มันอะไรกันหา!?
+Dialogue: 0,0:13:40.39,0:13:43.50,Default,,0,0,0,,บอกซิว่าทำยังไงถึงออกมาเป็นอย่างนี้ได้
+Dialogue: 0,0:13:43.50,0:13:43.97,Default,,0,0,0,,คือ...
+Dialogue: 0,0:13:44.30,0:13:46.14,Default,,0,0,0,,ทานากะซังตัวผอมนี่คะ
+Dialogue: 0,0:13:45.28,0:13:46.14,Default,,0,0,0,,- อืม ผอม
+Dialogue: 0,0:13:46.14,0:13:47.97,Default,,0,0,0,,ฉันเลยกังวลขึ้นมาค่ะ
+Dialogue: 0,0:13:47.97,0:13:53.37,Default,,0,0,0,,ให้ทานของแคลอรี่สูงๆ จะได้มีเนื้อมีหนัง ดูเท่ขึ้นไงคะ
+Dialogue: 0,0:13:53.37,0:13:56.28,Default,,0,0,0,,ก็เลยทำแพนเค้ก ท็อปปิ้งด้วยครีมสดเยอะๆ
+Dialogue: 0,0:13:56.28,0:14:03.38,Default,,0,0,0,,แล้วก็หมูทอด ไก่ทอด หมูผัดเปรี้ยวหวานที่ชอบด้วย
+Dialogue: 0,0:14:00.32,0:14:03.38,Default,,0,0,0,,- หมูผัดเปรี้ยวหวานอีก หนักท้องเกิน!
+Dialogue: 0,0:14:03.38,0:14:05.32,Default,,0,0,0,,ให้ฉันพักบ้างได้มั้ย!
+Dialogue: 0,0:14:05.68,0:14:09.65,Default,,0,0,0,,ดูเหมือนอารมณ์ทานากะซังจะบูดซะแล้ว ดังนั้นจึงขอเสนอ...
+Dialogue: 0,0:14:10.08,0:14:14.89,Default,,0,0,0,,เอาล่ะ มาป้อนกับข้าวในเบ็นโตะกล่องนี้ให้ทานากะซังทานดีกว่า
+Dialogue: 0,0:14:14.13,0:14:14.89,Default,,0,0,0,,{\c&H0000FF&}- เอ๋!?
+Dialogue: 0,0:14:14.89,0:14:15.22,Default,,0,0,0,,อะ...
+Dialogue: 0,0:14:15.22,0:14:17.40,Default,,0,0,0,,ไม่อยากป้อนขนาดนั้นเลย
+Dialogue: 0,0:14:16.54,0:14:17.40,Default,,0,0,0,,- เปล่าค่ะๆๆ
+Dialogue: 0,0:14:17.40,0:14:18.46,Default,,0,0,0,,เดี๋ยวๆๆ
+Dialogue: 0,0:14:18.46,0:14:21.28,Default,,0,0,0,,ผู้ชายอย่างฉันฝันให้คนป้อนกับข้าวให้ซักครั้งจริงอยู่หรอก...
+Dialogue: 0,0:14:21.28,0:14:23.17,Default,,0,0,0,,นี่เป็นเบ็นโตะที่ทำเพื่อทานากะซังซะด้วย
+Dialogue: 0,0:14:22.76,0:14:23.17,Default,,0,0,0,,- นั่นสินะ
+Dialogue: 0,0:14:23.17,0:14:25.17,Default,,0,0,0,,แต่จะป้อนไอ้นี่ให้ฉันจริงเหรอ?
+Dialogue: 0,0:14:25.17,0:14:27.74,Text,,0,0,0,,{\c&H000000&\3c&HFAFCFC&\clip(952,524.8,1169.6,652.8)\pos(1063.6,628)}ไอ้นี่
+Dialogue: 0,0:14:25.52,0:14:27.74,Default,,0,0,0,,ใช่ค่ะ
+Dialogue: 0,0:14:25.78,0:14:27.74,Default,,0,0,0,,- ทำไมอะ!?
+Dialogue: 0,0:14:28.10,0:14:30.82,Default,,0,0,0,,ของคนอื่นก็ไม่ได้ดีกว่ากันนักหรอก
+Dialogue: 0,0:14:30.82,0:14:33.34,Default,,0,0,0,,ให้ทานอย่างอื่นด้วยไม่ดีกว่าเหรอ?
+Dialogue: 0,0:14:33.34,0:14:34.68,Default,,0,0,0,,เปลือกถั่ว...
+Dialogue: 0,0:14:34.68,0:14:36.05,Default,,0,0,0,,เปลือกถั่วเอาไง?
+Dialogue: 0,0:14:36.05,0:14:38.02,Default,,0,0,0,,ทานเปลือกด้วยได้ไหมคะ?
+Dialogue: 0,0:14:38.02,0:14:39.98,Default,,0,0,0,,จะไปกินได้ยังไงวะ!
+Dialogue: 0,0:14:39.98,0:14:42.15,Default,,0,0,0,,ฉันไม่ใช่สัตว์ประหลาดนะ!
+Dialogue: 0,0:14:42.15,0:14:44.29,Default,,0,0,0,,คิดไงถึงจะป้อนเปลือกให้ฉันกิน!?
+Dialogue: 0,0:14:46.34,0:14:49.66,Default,,0,0,0,,ท่านทานากะ เชิญรับประทานค่ะ
+Dialogue: 0,0:14:50.22,0:14:51.78,Default,,0,0,0,,เอ้า อ้ามมมม
+Dialogue: 0,0:14:52.72,0:14:53.60,Default,,0,0,0,,หวา...
+Dialogue: 0,0:14:53.86,0:14:54.93,Default,,0,0,0,,"หวา" อะไรของเธอ
+Dialogue: 0,0:14:55.27,0:14:56.50,Default,,0,0,0,,เป็นไงคะ?
+Dialogue: 0,0:14:56.81,0:14:58.61,Default,,0,0,0,,อร่อยผิดคาดนะ
+Dialogue: 0,0:14:58.61,0:14:59.80,Default,,0,0,0,,ค่อยยังชั่ว!
+Dialogue: 0,0:15:00.34,0:15:02.04,Default,,0,0,0,,ดีใจจัง ค่อยยังชั่ว
+Dialogue: 0,0:15:02.71,0:15:05.70,Default,,0,0,0,,เล่นกับทานากะซังกัน เกมหนึ่งวันของดารุมะซัง!!
+Dialogue: 0,0:15:09.76,0:15:14.65,Default,,0,0,0,,จากตอนนี้ไป เราจะเล่นเกมกับทานากะซังเพื่อให้สนิทกันยิ่งขึ้น
+Dialogue: 0,0:15:15.39,0:15:18.66,Default,,0,0,0,,วันนี้จะเล่นเกมหนึ่งวันของดารุมะซังกันค่ะ
+Dialogue: 0,0:15:18.66,0:15:20.63,Default,,0,0,0,,รู้จักไหมคะ เกมหนึ่งวันของดารุมะซัง
+Dialogue: 0,0:15:20.63,0:15:23.03,Default,,0,0,0,,ไม่รู้จัก...
+Dialogue: 0,0:15:21.29,0:15:23.03,Default,,0,0,0,,- เอ๋!? ไม่รู้จักเหรอคะ!?
+Dialogue: 0,0:15:24.33,0:15:26.33,Text,,0,0,0,,{\clip(596.8,553.6,1168,656)\pos(887.6,640.8)}เด็กมัธยมทุกคนต้องรู้จัก
+Dialogue: 0,0:15:23.03,0:15:25.41,Default,,0,0,0,,ใครรู้จักบ้าง เกมหนึ่งวันของดารุมะซัง
+Dialogue: 0,0:15:25.41,0:15:26.33,Default,,0,0,0,,ทุกคนรู้จักเหรอ?
+Dialogue: 0,0:15:27.05,0:15:29.67,Default,,0,0,0,,กฎเหมือนเกมดารุมะซังล้มดั้งเดิม
+Dialogue: 0,0:15:30.66,0:15:36.31,Default,,0,0,0,,แต่ผู้เล่นจะต้องทำท่าตามที่คนเป็นยักษ์สั่ง
+Dialogue: 0,0:15:36.31,0:15:38.73,Default,,0,0,0,,ยกตัวอย่างฉันพูด "กินราเม็ง" ก็ต้องทำท่ากินราเม็งงี้
+Dialogue: 0,0:15:38.73,0:15:39.84,Default,,0,0,0,,งี้นี่เอง
+Dialogue: 0,0:15:39.84,0:15:41.41,Default,,0,0,0,,ต้องทำท่าให้ชัดๆ สินะ
+Dialogue: 0,0:15:41.65,0:15:42.21,Default,,0,0,0,,โอเค
+Dialogue: 0,0:15:42.46,0:15:47.12,Default,,0,0,0,,คนเป็นยักษ์คือ ทานากะ มิคุ ที่เป็นนักเรียนประถมถึงปีที่แล้ว
+Dialogue: 0,0:15:47.38,0:15:50.49,Default,,0,0,0,,หนึ่งวันของดารุมะซัง ท่าแรกคือ?
+Dialogue: 0,0:15:50.95,0:15:53.71,Default,,0,0,0,,ดารุมะซังกลายเป็นทานากะซัง!
+Dialogue: 0,0:15:54.70,0:15:56.33,Default,,0,0,0,,ทานากะซังทำเก่งที่สุดตามคาด
+Dialogue: 0,0:15:57.20,0:15:59.46,Default,,0,0,0,,เก่งสุดๆ ทุกคนทำตามได้มั้ย?
+Dialogue: 0,0:15:59.60,0:16:01.50,Default,,0,0,0,,"ยา-มา-เนะ" อย่างนี้
+Dialogue: 0,0:16:01.83,0:16:03.88,Default,,0,0,0,,ทำไมถึงไม่เข้าใจกันเลยหา
+Dialogue: 0,0:16:03.88,0:16:05.64,Default,,0,0,0,,ทุกคนทำพร้อมกัน ยามาเนะ!
+Dialogue: 0,0:16:05.64,0:16:07.92,Default,,0,0,0,,ยามาเนะ!!
+Dialogue: 0,0:16:07.92,0:16:11.31,Default,,0,0,0,,ยังไม่แรงพอ ยามาเนะ!!!
+Dialogue: 0,0:16:11.31,0:16:12.41,Default,,0,0,0,,เมรุทำได้มั้ย?
+Dialogue: 0,0:16:12.41,0:16:13.58,Default,,0,0,0,,{\fad(200,0)}ยามาเนะ..
+Dialogue: 0,0:16:13.58,0:16:14.85,Default,,0,0,0,,ไม่ใช่ๆ เสียงเบาไป
+Dialogue: 0,0:16:14.85,0:16:16.92,Default,,0,0,0,,ยา-มา-เนะ!!!
+Dialogue: 0,0:16:16.92,0:16:18.92,Default,,0,0,0,,{\fad(200,0)}ยามาเนะ!!!
+Dialogue: 0,0:16:18.92,0:16:21.72,Default,,0,0,0,,ต้องพูดแรงๆ ขนาดนี้ไม่งั้นยามาเนะไม่ยอมเลิก
+Dialogue: 0,0:16:22.26,0:16:23.02,Default,,0,0,0,,นั่นแหละๆ
+Dialogue: 0,0:16:23.90,0:16:26.39,Default,,0,0,0,,หลังจากนั้น ดารุมะซังก็กลายเป็นกอริลล่า
+Dialogue: 0,0:16:26.39,0:16:27.89,Default,,0,0,0,,อะไรเนี่ย...
+Dialogue: 0,0:16:27.89,0:16:28.96,Default,,0,0,0,,ตกหลุมรัก
+Dialogue: 0,0:16:28.96,0:16:30.09,Default,,0,0,0,,ตกหลุมรักและ...
+Dialogue: 0,0:16:30.09,0:16:31.26,Default,,0,0,0,,ทุกคนตกหลุมรัก...
+Dialogue: 0,0:16:32.13,0:16:34.60,Default,,0,0,0,,ทานากะซังตกหลุมรักแล้วทำหน้าอย่างนั้นเหรอ?
+Dialogue: 0,0:16:34.60,0:16:36.70,Default,,0,0,0,,กลายเป็นอย่างงั้นเหรอเนี่ย
+Dialogue: 0,0:16:37.37,0:16:40.24,Default,,0,0,0,,ดารุมะซังจะทำอะไรต่อเอ่ย?
+Dialogue: 0,0:16:40.24,0:16:42.17,Default,,0,0,0,,ดารุมะซังสะดุดล้ม
+Dialogue: 0,0:16:43.99,0:16:44.68,Default,,0,0,0,,เก่งมาก!
+Dialogue: 0,0:16:45.31,0:16:46.74,Default,,0,0,0,,ทุกคนล้มกันเก่งจริงๆ
+Dialogue: 0,0:16:47.12,0:16:49.81,Default,,0,0,0,,ล้มเก่งกันมากเลยนะ
+Dialogue: 0,0:16:47.98,0:16:49.81,Default,,0,0,0,,- ดูเจ็บจัง กระดูกหักรึเปล่า
+Dialogue: 0,0:16:49.81,0:16:51.33,Default,,0,0,0,,หลังล้มต่างหากที่สำคัญ
+Dialogue: 0,0:16:51.33,0:16:52.94,Default,,0,0,0,,ต้องทำท่าต่อไป
+Dialogue: 0,0:16:52.94,0:16:53.92,Default,,0,0,0,,อย่าเพิ่งลุกนะ
+Dialogue: 0,0:16:53.92,0:16:55.95,Default,,0,0,0,,ทำท่าต่อไปจนกว่าจะสั่งคัต
+Dialogue: 0,0:16:55.95,0:16:56.89,Default,,0,0,0,,ฮารุปปิเจ็บมั้ย?
+Dialogue: 0,0:16:56.89,0:16:58.49,Default,,0,0,0,,เจ็บ... เข่าหักกร๊อบแล้ว
+Dialogue: 0,0:16:58.49,0:16:59.94,Default,,0,0,0,,เข่าหัก? ไหวมั้ย?
+Dialogue: 0,0:16:59.94,0:17:00.99,Default,,0,0,0,,ไม่ไหว...
+Dialogue: 0,0:17:02.20,0:17:06.20,Default,,0,0,0,,เสียง "ซี้ด ซี้ด" นี่แหละสำคัญ
+Dialogue: 0,0:17:05.20,0:17:06.20,Default,,0,0,0,,{\fad(1)\fs50\bord4\pos(894,450)\c&HDDA358&\3c&HFAFCFC&\frz339}ซี้ด
+Dialogue: 0,0:17:05.52,0:17:06.20,Default,,0,0,0,,{\fad(1)\fs50\bord4\c&HDDA358&\3c&HFAFCFC&\pos(364,444)\frz12.55}ซี้ด
+Dialogue: 0,0:17:06.23,0:17:07.70,Default,,0,0,0,,{\fad(1)\fs60\bord4\c&HDDA358&\3c&HFAFCFC&\pos(1016,646)\frz339.3}ซี้ด
+Dialogue: 0,0:17:06.63,0:17:07.70,Default,,0,0,0,,{\fad(1)\fs60\bord4\c&HDDA358&\3c&HFAFCFC&\frz12.36\pos(352,610)}ซี้ด
+Dialogue: 0,0:17:06.97,0:17:10.47,Default,,0,0,0,,อย่าซี้ดพร้อมกันหมดได้มั้ย
+Dialogue: 0,0:17:11.12,0:17:13.47,Default,,0,0,0,,และสุดท้าย...
+Dialogue: 0,0:17:13.93,0:17:16.14,Default,,0,0,0,,ดารุมะซังหัวล้าน
+Dialogue: 0,0:17:16.90,0:17:17.96,Default,,0,0,0,,ทุกคนทำหัวล้านๆ
+Dialogue: 0,0:17:18.41,0:17:19.61,Default,,0,0,0,,อย่างนั้นๆๆ นาโกะ!!!
+Dialogue: 0,0:17:22.25,0:17:23.68,Default,,0,0,0,,เต็มที่จริงๆ
+Dialogue: 0,0:17:23.68,0:17:25.28,Default,,0,0,0,,หัวล้านแท้ๆ
+Dialogue: 0,0:17:25.28,0:17:28.05,Default,,0,0,0,,รวบไปข้างหลังหนักๆ กว่านี้
+Dialogue: 0,0:17:30.02,0:17:31.02,Default,,0,0,0,,สุดยอด
+Dialogue: 0,0:17:31.02,0:17:34.36,Default,,0,0,0,,เล่นเปิดเหม่งซะขนาดนั้น ไม่มีใครสนหัวล้านฉันแล้ว
+Dialogue: 0,0:17:35.35,0:17:36.33,Default,,0,0,0,,เล่นแรงซะขนาดนั้น
+Dialogue: 0,0:17:37.48,0:17:39.93,Default,,0,0,0,,ทานากะซังคะ การซื้อของวันนี้เป็นยังไงบ้าง?
+Dialogue: 0,0:17:40.62,0:17:41.87,Default,,0,0,0,,สนุกมากเลย
+Dialogue: 0,0:17:41.87,0:17:43.60,Default,,0,0,0,,สนุกมากเหรอคะ เย้
+Dialogue: 0,0:17:43.60,0:17:47.91,Default,,0,0,0,,ฉันไม่ค่อยได้มีโอกาสเล่นกับผู้หญิงแบบนี้น่ะ
+Dialogue: 0,0:17:46.63,0:17:47.91,Default,,0,0,0,,- นั่นสินะคะ
+Dialogue: 0,0:17:47.91,0:17:50.84,Default,,0,0,0,,เลยได้ฝึกพูดกับผู้หญิงไปด้วยเลย
+Dialogue: 0,0:17:50.84,0:17:53.61,Default,,0,0,0,,ค่อยยังชั่ว ทุกคนสนุกกันมั้ย?
+Dialogue: 0,0:17:53.61,0:17:55.11,Default,,0,0,0,,สนุกมาก!
+Dialogue: 0,0:17:55.44,0:18:00.05,Default,,0,0,0,,ได้เวลาที่ อันเกิร์ลส์ ทานากะซัง ประกาศโอชิเมมแล้วค่ะ
+Dialogue: 0,0:18:00.40,0:18:02.00,Default,,0,0,0,,ฉัน...
+Dialogue: 0,0:18:02.00,0:18:03.51,Default,,0,0,0,,ทานากะ
+Dialogue: 0,0:18:03.51,0:18:07.86,Default,,0,0,0,,โอชิเมมของฉันใน HKT48 คือ...
+Dialogue: 0,0:18:11.93,0:18:14.13,Default,,0,0,0,,โทโมนากะจังครับ
+Dialogue: 0,0:18:15.50,0:18:16.47,Default,,0,0,0,,เอ๋? ไม่จริง!?
+Dialogue: 0,0:18:16.47,0:18:22.04,Default,,0,0,0,,เพราะทำเบ็นโตะที่สร้างความประทับใจให้ฉันสุดๆ
+Dialogue: 0,0:18:22.04,0:18:24.71,Default,,0,0,0,,เพิ่งเคยให้ผู้หญิงป้อนข้าวให้เป็นครั้งแรกนี่แหละ
+Dialogue: 0,0:18:24.71,0:18:25.44,Default,,0,0,0,,ครั้งแรก?
+Dialogue: 0,0:18:25.44,0:18:27.58,Default,,0,0,0,,เป็นผู้หญิงคนแรกเลย
+Dialogue: 0,0:18:28.03,0:18:29.41,Default,,0,0,0,,เป็นยังไง? ดีใจมั้ย?
+Dialogue: 0,0:18:29.41,0:18:31.75,Text,,0,0,0,,{\clip(758.4,555.2,1164.8,652.8)\pos(961,639.4)}ค่อนข้างทำตัวไม่ถูก
+Dialogue: 0,0:18:29.41,0:18:31.75,Default,,0,0,0,,ดีใจ มากเลยค่ะ
+Dialogue: 0,0:18:30.50,0:18:31.75,Default,,0,0,0,,- ดีใจจริงเหรอ?
+Dialogue: 0,0:18:31.75,0:18:34.41,Default,,0,0,0,,อยากได้เข็มกลัดไม่ใช่รึไง
+Dialogue: 0,0:18:34.41,0:18:36.07,Default,,0,0,0,,เดี๋ยวโดนเปลี่ยนใจตรงหน้านะ
+Dialogue: 0,0:18:36.62,0:18:42.53,Default,,0,0,0,,โทโมนากะผู้ได้รับเลือกเป็นโอชิเมม จะได้ทานอาหารแสนอร่อยค่ะ
+Dialogue: 0,0:18:42.53,0:18:45.37,Default,,0,0,0,,ห้างสรรพสินค้า HaKaTa แอนเนกซ์
+Dialogue: 0,0:18:46.11,0:18:48.60,Default,,0,0,0,,ด้วยเหตุผลบางอย่าง สัปดาห์นี้จึงมี MC สองคนค่ะ
+Dialogue: 0,0:18:48.60,0:18:51.80,Default,,0,0,0,,มาคิดคาแรกเตอร์ของ MC อารามากิกัน!
+Dialogue: 0,0:18:48.79,0:18:51.80,Member Name,,0,0,0,,{\fad(200,0)\pos(410.8,498.8)}อารามากิ มิซากิ
+Dialogue: 0,0:18:48.79,0:18:51.80,Member Name,,0,0,0,,{\fad(200,0)\pos(1012.2,500.4)}ทานากะ นัตสึมิ
+Dialogue: 0,0:18:54.38,0:18:59.38,Default,,0,0,0,,แอนเนกซ์วันนี้ จะให้เคงคิวเซย์ อารามากิ แต่งคอสเพลย์ค่ะ
+Dialogue: 0,0:18:59.38,0:19:01.78,Default,,0,0,0,,ประชุมกันเรื่องชุดที่อยากให้อารามากิจังใส่ค่ะ
+Dialogue: 0,0:19:03.10,0:19:03.54,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:19:03.54,0:19:04.45,Default,,0,0,0,,ค่ะ ฮารุปปิ
+Dialogue: 0,0:19:04.45,0:19:08.20,Default,,0,0,0,,อยากให้ใส่ชุดสีขาว ฟูฟ่อง เหมือนนางฟ้าค่ะ
+Dialogue: 0,0:19:08.20,0:19:09.09,Default,,0,0,0,,อ้อ
+Dialogue: 0,0:19:09.28,0:19:10.18,Default,,0,0,0,,โมริโปะ
+Dialogue: 0,0:19:10.18,0:19:11.88,Default,,0,0,0,,เอ๋? เอาไงดีนะ
+Dialogue: 0,0:19:13.06,0:19:14.17,Default,,0,0,0,,ชุดปีศาจละกัน
+Dialogue: 0,0:19:15.99,0:19:17.18,Default,,0,0,0,,อยากให้เป็นปีศาจตัวน้อยๆ เหรอ
+Dialogue: 0,0:19:17.18,0:19:20.60,Default,,0,0,0,,นั่นสิ ถ้าปีศาจน่ารักอย่างนี้ไม่กลัวเลย
+Dialogue: 0,0:19:19.16,0:19:20.60,Default,,0,0,0,,- จะทำอะไรก็ยินดีเลย
+Dialogue: 0,0:19:20.60,0:19:21.73,Default,,0,0,0,,เนอะ
+Dialogue: 0,0:19:22.31,0:19:25.74,Default,,0,0,0,,เมื่อดูแบบสอบถามที่เมมเบอร์ HKT48 ตอบ
+Dialogue: 0,0:19:25.74,0:19:27.77,Default,,0,0,0,,มัตสึโอกะ นัตสึมิจัง
+Dialogue: 0,0:19:27.77,0:19:30.88,Default,,0,0,0,,อยากให้ใส่ xxx ถือตุ๊กตา
+Dialogue: 0,0:19:33.72,0:19:39.32,Default,,0,0,0,,เอาล่ะ บอสเลือกชุดให้ใส่เรียบร้อยตามคำตอบแบบสอบถาม
+Dialogue: 0,0:19:39.32,0:19:43.05,Default,,0,0,0,,อารามากิจะปรากฏตัวออกมาในชุดใดกัน?
+Dialogue: 0,0:19:43.05,0:19:44.52,Default,,0,0,0,,มิซากิจัง~!
+Dialogue: 0,0:19:44.75,0:19:45.52,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:19:46.96,0:19:48.93,Default,,0,0,0,,น่าร้ากกก
+Dialogue: 0,0:19:52.23,0:19:53.70,Default,,0,0,0,,มิซากิจัง~!
+Dialogue: 0,0:19:53.99,0:19:54.65,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:19:56.12,0:19:57.72,Default,,0,0,0,,น่าร้ากกก
+Dialogue: 0,0:19:57.72,0:20:02.04,Member Name,,0,0,0,,{\fad(300,0)\pos(236.2,445.2)}ชุดนอนสีขาว
+Dialogue: 0,0:19:57.72,0:20:02.04,Member Name,,0,0,0,,{\fad(300,0)\fs50\pos(287.6,566.2)}+ ตุ๊กตากระต่าย
+Dialogue: 0,0:19:58.76,0:20:01.54,Default,,0,0,0,,น่ารัก!!
+Dialogue: 0,0:20:02.04,0:20:03.44,Default,,0,0,0,,เกินคาด!
+Dialogue: 0,0:20:03.44,0:20:05.58,Default,,0,0,0,,มีคำที่อยากให้พูดหน่อยน่ะ
+Dialogue: 0,0:20:05.58,0:20:08.45,Default,,0,0,0,,ไม่อ้อมค้อมนะ พูดว่า "พี่คะ หนูรักพี่จัง" ให้หน่อย
+Dialogue: 0,0:20:08.45,0:20:09.13,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:20:09.75,0:20:11.05,Default,,0,0,0,,เชิญเลยค่ะ
+Dialogue: 0,0:20:12.42,0:20:14.75,Default,,0,0,0,,{\fad(300,0)}พี่คะ หนูรักพี่จัง
+Dialogue: 0,0:20:14.75,0:20:15.99,Default,,0,0,0,,น่ารัก!!!
+Dialogue: 0,0:20:15.99,0:20:17.49,Default,,0,0,0,,เป็นพี่ชายให้เลย
+Dialogue: 0,0:20:17.49,0:20:18.62,Default,,0,0,0,,เอ๋? {\alpha&HFF%}เป็นไม่ได้หรอก
+Dialogue: 0,0:20:18.62,0:20:20.16,Default,,0,0,0,,เอ๋? เป็นไม่ได้หรอก
+Dialogue: 0,0:20:21.12,0:20:22.93,Default,,0,0,0,,แฟนๆ พลาดไม่ได้
+Dialogue: 0,0:20:22.93,0:20:28.00,Default,,0,0,0,,ตอน MC อารามากิ รับชมแบบเต็มได้ทาง hulu
+Dialogue: 0,0:20:28.20,0:20:30.58,Default,,0,0,0,,{\fad(0,400)}อืม...
+Dialogue: 0,0:20:30.58,0:20:32.15,Default,,0,0,0,,พยายามเข้า
+Dialogue: 0,0:20:31.08,0:20:32.15,Default,,0,0,0,,- ทำได้ไหมนะ?
+Dialogue: 0,0:20:32.15,0:20:32.94,Default,,0,0,0,,ไม่ต้องกลัวนะ
+Dialogue: 0,0:20:32.94,0:20:35.31,Default,,0,0,0,,ตกลงใครเป็นพิธีกรกันแน่เนี่ย งงไปหมดแล้ว
+Dialogue: 0,0:20:37.96,0:20:40.86,Default,,0,0,0,,ห้างสรรพสินค้า HaKaTa สาขาสาม ยังมีต่อนะ
+Dialogue: 0,0:20:41.12,0:20:42.72,Default,,0,0,0,,ไม่ปล่อยไปนอนหรอกนะ
+Dialogue: 0,0:20:45.36,0:20:49.84,Default,,0,0,0,,อาหารรางวัลวันนี้คือ ชิคาโก้มิกซ์ จาก Garrett Popcorn Shop
+Dialogue: 0,0:20:49.84,0:20:51.26,Default,,0,0,0,,ถังสองแกลลอนค่ะ!
+Dialogue: 0,0:20:54.13,0:20:55.39,Default,,0,0,0,,สุดยอด
+Dialogue: 0,0:20:55.39,0:20:57.06,Default,,0,0,0,,อะไรเนี่ย
+Dialogue: 0,0:20:55.39,0:20:57.06,Default,,0,0,0,,- น่าอร่อยจัง
+Dialogue: 0,0:20:57.06,0:20:58.09,Default,,0,0,0,,ทานด้วยกันสองรสค่ะ
+Dialogue: 0,0:20:58.09,0:20:58.73,Default,,0,0,0,,จริงเหรอ?
+Dialogue: 0,0:20:58.73,0:20:59.53,Default,,0,0,0,,ใช่ค่ะ
+Dialogue: 0,0:20:59.93,0:21:01.80,Default,,0,0,0,,น่าอร่อยจัง ทานเลยมิโอะจัง
+Dialogue: 0,0:21:01.80,0:21:02.85,Default,,0,0,0,,ทานละนะคะ
+Dialogue: 0,0:21:03.20,0:21:04.50,Default,,0,0,0,,สองชิ้นเลยละกัน
+Dialogue: 0,0:21:03.20,0:21:04.50,Default,,0,0,0,,- น่าอร่อยมาก
+Dialogue: 0,0:21:09.62,0:21:10.28,Default,,0,0,0,,เป็นไง?
+Dialogue: 0,0:21:09.84,0:21:11.28,Default,,0,0,0,,- อร่อยมาก
+Dialogue: 0,0:21:10.28,0:21:11.28,Default,,0,0,0,,อร่อยเหรอ?
+Dialogue: 0,0:21:11.63,0:21:14.24,Default,,0,0,0,,ต่างกับที่กินในโรงหนังมั้ย?
+Dialogue: 0,0:21:14.24,0:21:16.85,Default,,0,0,0,,ต่างกันลิบเลย
+Dialogue: 0,0:21:15.93,0:21:16.85,Default,,0,0,0,,- ต่างกันมากเหรอ?
+Dialogue: 0,0:21:16.85,0:21:19.32,Default,,0,0,0,,รสหวาน.. แล้วก็รสเค็มอยู่ฝั่งนี้
+Dialogue: 0,0:21:19.32,0:21:20.42,Default,,0,0,0,,รสเค็มอยู่ฝั่งนี้?
+Dialogue: 0,0:21:20.42,0:21:21.35,Default,,0,0,0,,เข้ากันดี
+Dialogue: 0,0:21:21.35,0:21:22.07,Default,,0,0,0,,งี้นี่เอง
+Dialogue: 0,0:21:22.07,0:21:23.38,Default,,0,0,0,,งั้นพวกเราก็ทานกันเนอะ
+Dialogue: 0,0:21:22.86,0:21:23.38,Default,,0,0,0,,- ทานกันเลย
+Dialogue: 0,0:21:23.38,0:21:24.39,Default,,0,0,0,,ทานเลยค่ะ
+Dialogue: 0,0:21:25.29,0:21:26.39,Default,,0,0,0,,หวา... ปูอะ
+Dialogue: 0,0:21:27.93,0:21:29.98,Default,,0,0,0,,ขยะแขยง
+Dialogue: 0,0:21:29.98,0:21:31.76,Default,,0,0,0,,ได้เข็มกลัดแล้ว จะว่าอะไรก็ได้ละสิ
+Dialogue: 0,0:21:31.76,0:21:32.50,Default,,0,0,0,,ขยะแขยง
+Dialogue: 0,0:21:32.50,0:21:33.80,Default,,0,0,0,,ไม่เอาแล้ว
+Dialogue: 0,0:21:33.80,0:21:35.37,Default,,0,0,0,,อย่าพูดอย่างนั้นสิ
+Dialogue: 0,0:21:35.37,0:21:36.91,Default,,0,0,0,,อย่าพูดบ้าๆ นะ!
+Dialogue: 0,0:21:38.28,0:21:41.74,Default,,0,0,0,,สัปดาห์ต่อไป แข่งโมโนะโบเกะกับซิสซอนน์
+Dialogue: 0,0:21:42.25,0:21:44.84,Default,,0,0,0,,ไม่เห็นเป็นไรเล้ย~
+Dialogue: 0,0:21:46.01,0:21:49.85,Default,,0,0,0,,ช่วงต่อไป คำพูดสั้นๆ ให้กำลังใจจากเมมเบอร์
+Dialogue: 0,0:21:50.66,0:21:52.82,Default,,0,0,0,,ประกาศจากทางรายการ
+Dialogue: 0,0:21:52.82,0:21:57.00,Default,,0,0,0,,เว็บดูวิดีโอออนไลน์ hulu และ NTV on demand
+Dialogue: 0,0:21:57.00,0:22:01.87,Default,,0,0,0,,เปิดให้ชมรายการห้างสรรพสินค้า\NHaKaTa สาขาสามทันทีหลังออกอากาศ
+Dialogue: 0,0:22:02.40,0:22:04.90,Default,,0,0,0,,รายละเอียดติดตามได้ทางเว็บไซต์รายการค่ะ
+Dialogue: 0,0:22:06.55,0:22:15.07,Member Name,,0,0,0,,{\fad(400,0)\pos(976,505)}โมริยาสุ มาโดกะ
+Dialogue: 0,0:22:08.87,0:22:15.07,Default,,0,0,0,,จะพยายามให้ได้พูดมากกว่านี้นะ ช่วยเชียร์ด้วยล่ะ!
 Dialogue: 0,0:22:14.91,0:22:16.91,Default,,0,0,0,,
