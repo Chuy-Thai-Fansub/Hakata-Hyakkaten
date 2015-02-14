@@ -10,13 +10,9 @@ ScaledBorderAndShadow: yes
 Video Zoom: 3
 Video Aspect Ratio: c1.77778
 YCbCr Matrix: TV.601
-Aegisub Video Aspect Ratio: c1.777778
-Audio URI: C:/Users/ASUS/Google Drive/Chuy Thai Fansub/d_MP4 files/a_RAW/150202 HaKaTa Hyakkaten 3 ep04.mp4
-Aegisub Scroll Position: 520
-Aegisub Active Line: 526
-Aegisub Video Zoom Percent: 0.500000
-Video File: C:/Users/ASUS/Google Drive/Chuy Thai Fansub/d_MP4 files/a_RAW/150202 HaKaTa Hyakkaten 3 ep04.mp4
-Aegisub Video Position: 33325
+Aegisub Scroll Position: 25
+Aegisub Active Line: 46
+Aegisub Video Zoom Percent: 1.000000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -75,7 +71,7 @@ Dialogue: 0,0:01:28.86,0:01:30.46,Default,,0,0,0,,ฉันไม่ได้ด
 Dialogue: 0,0:01:30.69,0:01:32.16,Default,,0,0,0,,ไม่จริงๆ
 Dialogue: 0,0:01:31.41,0:01:32.16,Default,,0,0,0,,- ไม่ใช่ๆๆ
 Dialogue: 0,0:01:32.16,0:01:35.50,Default,,0,0,0,,ฉันชอบเธอจากหน้าตา แล้วถึงค้นพบสัดส่วนทีหลังต่างหาก!!
-Dialogue: 0,0:01:35.50,0:01:37.80,Text,,0,0,0,,{\3c&HE8EEAD&\clip(516,554,1164,654)\pos(840,641)}ค้นพบร่างกายในภายหลัง
+Dialogue: 0,0:01:35.50,0:01:37.80,Text,,0,0,0,,{\3c&HE8EEAD&\clip(516,554,1164,654)\pos(840,641)}ค้นพบสัดส่วนในภายหลัง
 Dialogue: 0,0:01:36.92,0:01:40.62,Default,,0,0,0,,ซายาเน่ไม่คิดว่าฉันน่าเกลียดน่ะ
 Dialogue: 0,0:01:40.62,0:01:42.34,Default,,0,0,0,,ไม่มีใครคิดว่าน่าเกลียดซักหน่อยเนอะ?
 Dialogue: 0,0:01:42.34,0:01:44.18,Default,,0,0,0,,ไม่คิดเลยๆ
