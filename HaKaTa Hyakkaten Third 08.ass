@@ -10,13 +10,9 @@ ScaledBorderAndShadow: yes
 Video Zoom: 3
 Video Aspect Ratio: c1.77778
 YCbCr Matrix: TV.601
-Aegisub Video Aspect Ratio: c1.777778
-Audio URI: C:/Users/ASUS/Google Drive/Chuy Thai Fansub/d_MP4 files/a_RAW/150302 HaKaTa Hyakkaten 3 ep08.mp4
-Aegisub Scroll Position: 554
-Aegisub Active Line: 532
-Aegisub Video Zoom Percent: 0.500000
-Video File: C:/Users/ASUS/Google Drive/Chuy Thai Fansub/d_MP4 files/a_RAW/150302 HaKaTa Hyakkaten 3 ep08.mp4
-Aegisub Video Position: 34386
+Aegisub Scroll Position: 145
+Aegisub Active Line: 150
+Aegisub Video Zoom Percent: 1.000000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -179,7 +175,7 @@ Dialogue: 0,0:05:22.69,0:05:24.14,Default,,0,0,0,,งั้นก็ มาบ�
 Dialogue: 0,0:05:24.43,0:05:27.40,Text,,0,0,0,,{\clip(884,549.333,1172,657.333)\3c&HE8EEAD\pos(1035.334,642)}บูม!?
 Dialogue: 0,0:05:24.14,0:05:25.31,Default,,0,0,0,,ไม่ต้องก็ได้..
 Dialogue: 0,0:05:24.43,0:05:25.31,Default,,0,0,0,,- เอามั้ย?
-Dialogue: 0,0:05:25.31,0:05:26.30,Default,,0,0,0,,บูมจะกันเหรอ?
+Dialogue: 0,0:05:25.31,0:05:26.30,Default,,0,0,0,,จะบูมกันเหรอ?
 Dialogue: 0,0:05:26.30,0:05:27.40,Default,,0,0,0,,บูมเหรอ?
 Dialogue: 0,0:05:27.40,0:05:29.13,Default,,0,0,0,,ได้มั้ย?
 Dialogue: 0,0:05:27.73,0:05:29.13,Default,,0,0,0,,- เอาสิ
