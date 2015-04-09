@@ -10,13 +10,9 @@ ScaledBorderAndShadow: yes
 Video Zoom: 3
 Video Aspect Ratio: c1.77778
 YCbCr Matrix: TV.601
-Audio URI: C:/Users/ASUS/Google Drive/Chuy Thai Fansub/d_MP4 files/a_RAW/150309 HaKaTa Hyakkaten 3 ep09.mp4
-Aegisub Scroll Position: 564
-Aegisub Active Line: 565
-Aegisub Video Zoom Percent: 0.500000
-Video File: C:/Users/ASUS/Google Drive/Chuy Thai Fansub/d_MP4 files/a_RAW/150309 HaKaTa Hyakkaten 3 ep09.mp4
-Aegisub Video Aspect Ratio: c1.777778
-Aegisub Video Position: 33328
+Aegisub Scroll Position: 220
+Aegisub Active Line: 240
+Aegisub Video Zoom Percent: 1.000000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -269,7 +265,7 @@ Dialogue: 0,0:08:13.61,0:08:15.13,Default,,0,0,0,,ย่างฮอร์โม
 Dialogue: 0,0:08:15.13,0:08:20.77,Default,,0,0,0,,แต่เมมเบอร์ต่างปิ้งเนื้อกันอย่างจดจ่อ\Nจนไม่ได้พูดคุยกันในหัวข้อที่กำหนดสักนิด
 Dialogue: 0,0:08:20.77,0:08:21.54,Default,,0,0,0,,กินจริงๆ นะเนี่ย
 Dialogue: 0,0:08:21.54,0:08:22.94,Default,,0,0,0,,ลงเตาหมดเลยได้มั้ย?
-Dialogue: 0,0:08:23.16,0:08:28.35,Default,,0,0,0,,เรื่องอนาคตของ HKT48 สำคัญน้อยกว่าการกินย่างเนื้อเหรอครับ?
+Dialogue: 0,0:08:23.16,0:08:28.35,Default,,0,0,0,,เรื่องอนาคตของ HKT48 สำคัญน้อยกว่ากินย่างเนื้อเหรอครับ?
 Dialogue: 0,0:08:28.35,0:08:29.85,Default,,0,0,0,,นั่นสินะคะ
 Dialogue: 0,0:08:28.76,0:08:30.22,Default,,0,0,0,,- ต้องคุยให้มากกว่านี้ครับ
 Dialogue: 0,0:08:29.85,0:08:30.22,Default,,0,0,0,,จริงค่ะ
